@@ -1,0 +1,31 @@
+#!name=Meta（Instagram / Facebook）去广告（远程更新）
+#!desc=拦截 Instagram、Facebook、Meta 的广告与跟踪端点，并清理部分信息流响应中的推广内容
+#!author=jcxl8 / HaGeZi / Codex
+#!homepage=https://github.com/jcxl8/loon
+#!tag=Instagram,Facebook,Meta,去广告,远程更新
+
+[Rule]
+# Static Meta endpoints plus conservative matches from HaGeZi pro.plus and ultimate.
+DOMAIN-SUFFIX,ads.facebook.com,REJECT
+DOMAIN-SUFFIX,ads.instagramstoryviewer.org,REJECT
+DOMAIN-SUFFIX,an.facebook.com,REJECT
+DOMAIN-SUFFIX,analytics.facebook.com,REJECT
+DOMAIN-SUFFIX,analytics.meta-fusion.com,REJECT
+DOMAIN-SUFFIX,analytics.meta-one.de,REJECT
+DOMAIN-SUFFIX,analytics.meta-video.com,REJECT
+DOMAIN-SUFFIX,badge.facebook.com,REJECT
+DOMAIN-SUFFIX,badges.instagram.com,REJECT
+DOMAIN-SUFFIX,events.om-meta.com,REJECT
+DOMAIN-SUFFIX,pixel.facebook.com,REJECT
+DOMAIN-SUFFIX,tr.facebook.com,REJECT
+DOMAIN-SUFFIX,tracking.rest.meta-esp.com,REJECT
+
+[Rewrite]
+# Remove objects marked as ads/sponsored/promoted from supported JSON responses.
+^https:\/\/i\.instagram\.com\/api\/v\d+\/ response-body-json-jq 'walk(if type == "object" and ((.is_ad? == true) or (.is_ad? == "true") or (.is_sponsored? == true) or (.is_sponsored? == "true") or (.is_promoted? == true) or (.is_promoted? == "true") or (.ad_id? != null) or (.ad_metadata? != null) or (.sponsor? != null) or (.commerciality_status? == "SPONSORED") or (.commerciality_status? == "sponsored") or (.commerciality_status? == "AD") or (.commerciality_status? == "ad")) then empty else . end)'
+^https:\/\/(www\.)?instagram\.com\/(api\/)?graphql\/ response-body-json-jq 'walk(if type == "object" and ((.is_ad? == true) or (.is_ad? == "true") or (.is_sponsored? == true) or (.is_sponsored? == "true") or (.is_promoted? == true) or (.is_promoted? == "true") or (.ad_id? != null) or (.ad_metadata? != null) or (.sponsor? != null) or (.commerciality_status? == "SPONSORED") or (.commerciality_status? == "sponsored") or (.commerciality_status? == "AD") or (.commerciality_status? == "ad")) then empty else . end)'
+^https:\/\/(www\.)?facebook\.com\/api\/graphql\/ response-body-json-jq 'walk(if type == "object" and ((.is_ad? == true) or (.is_ad? == "true") or (.is_sponsored? == true) or (.is_sponsored? == "true") or (.is_promoted? == true) or (.is_promoted? == "true") or (.ad_id? != null) or (.ad_metadata? != null) or (.sponsor? != null) or (.commerciality_status? == "SPONSORED") or (.commerciality_status? == "sponsored") or (.commerciality_status? == "AD") or (.commerciality_status? == "ad")) then empty else . end)'
+^https:\/\/graph\.(instagram|facebook)\.com\/ response-body-json-jq 'walk(if type == "object" and ((.is_ad? == true) or (.is_ad? == "true") or (.is_sponsored? == true) or (.is_sponsored? == "true") or (.is_promoted? == true) or (.is_promoted? == "true") or (.ad_id? != null) or (.ad_metadata? != null) or (.sponsor? != null) or (.commerciality_status? == "SPONSORED") or (.commerciality_status? == "sponsored") or (.commerciality_status? == "AD") or (.commerciality_status? == "ad")) then empty else . end)'
+
+[MITM]
+hostname = %APPEND% i.instagram.com,www.instagram.com,graph.instagram.com,www.facebook.com,graph.facebook.com

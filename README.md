@@ -25,3 +25,13 @@ https://raw.githubusercontent.com/jcxl8/loon/main/Plugin/Pinterest_remove_ads_Lo
 ```
 
 插件同时包含推广 Pin 的响应体清理、Pinterest 广告/跟踪域名拦截，以及 HaGeZi 规则的每日同步。
+
+## Meta（Instagram / Facebook）去广告
+
+Loon 插件地址：
+
+```text
+https://raw.githubusercontent.com/jcxl8/loon/main/Plugin/Meta_remove_ads_Loon.lpx
+```
+
+插件拦截 Instagram、Facebook、Meta 的广告与跟踪端点，并尝试从部分信息流 JSON 响应中移除推广对象；规则每天从 HaGeZi `pro.plus` 和 `ultimate` 清单同步。插件不会屏蔽 `graph.*`、`connect.*`、`mqtt.*` 等核心服务域名，以减少登录、信息流和图片加载异常。
