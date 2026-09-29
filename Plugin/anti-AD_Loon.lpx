@@ -1,0 +1,9 @@
+#!name=anti-AD 广告拦截（远程更新）
+#!desc=远程引用 anti-AD 广告与隐私域名清单，适合在 Loon 中单独启用
+#!author=anti-AD / jcxl8
+#!homepage=https://anti-ad.net/
+#!tag=anti-AD,广告拦截,隐私保护,远程更新
+
+[Rule]
+# anti-AD 提供的 Surge/Loon 兼容域名集，云端更新
+DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
