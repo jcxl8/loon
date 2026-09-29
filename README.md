@@ -36,6 +36,12 @@ https://raw.githubusercontent.com/jcxl8/loon/main/Plugin/Meta_remove_ads_Loon.lp
 
 插件拦截 Instagram、Facebook、Meta 的广告与跟踪端点，并尝试从部分信息流 JSON 响应中移除推广对象；规则每天从 HaGeZi `pro.plus` 和 `ultimate` 清单同步。插件不会屏蔽 `graph.*`、`connect.*`、`mqtt.*` 等核心服务域名，以减少登录、信息流和图片加载异常。
 
+## HaGeZi Ad Shield 中的 anti-AD 中文规则
+
+`Hagezi_AdShield.lpx` 已额外远程引用 anti-AD 的 `surge2.txt` 域名集，因此安装 HaGeZi 插件后会同时获得 anti-AD 的中文广告域名规则。anti-AD 清单由其项目云端维护，不需要把十万条域名复制进 GitHub 仓库；GitHub Actions 仍每天更新 HaGeZi 本地规则。
+
+如果已经单独启用 `anti-AD_Loon.lpx`，请关闭其中一个，避免重复加载同一份规则。
+
 ## anti-AD 通用广告拦截
 
 Loon 插件地址：

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a Loon plugin from HaGeZi's three Ad-Shield list formats."""
+"""Build a Loon plugin from HaGeZi plus the anti-AD remote domain set."""
 
 from __future__ import annotations
 
@@ -16,6 +16,8 @@ SOURCES = {
     "subdomains": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/share/ad-shield-subdomains.txt",
     "adblock": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/share/ad-shield-adblock.txt",
 }
+
+ANTI_AD_DOMAIN_SET = "https://anti-ad.net/surge2.txt"
 
 HOST_LABEL = re.compile(r"^[a-z0-9-]{1,63}$")
 
@@ -73,13 +75,15 @@ def build() -> tuple[int, dict[str, int]]:
     domains = set().union(*parsed.values())
     lines = [
         "#!name=HaGeZi Ad Shield（远程更新）",
-        "#!desc=自动同步 HaGeZi Ad-Shield 域名清单，拦截广告恢复、反广告拦截与相关广告域名",
-        "#!author=jcxl8 / HaGeZi",
+        "#!desc=自动同步 HaGeZi Ad-Shield，并远程引用 anti-AD 中文广告域名集",
+        "#!author=jcxl8 / HaGeZi / anti-AD",
         "#!homepage=https://github.com/hagezi/dns-blocklists",
-        "#!tag=广告拦截,Ad-Shield,远程更新",
+        "#!tag=广告拦截,Ad-Shield,anti-AD,远程更新",
         "",
         "[Rule]",
-        "# Generated from HaGeZi ad-shield.txt, ad-shield-subdomains.txt and ad-shield-adblock.txt",
+        "# HaGeZi ad-shield.txt, ad-shield-subdomains.txt and ad-shield-adblock.txt",
+        "# anti-AD 中文广告域名集（云端维护）",
+        f"DOMAIN-SET,{ANTI_AD_DOMAIN_SET},REJECT",
         *[f"DOMAIN-SUFFIX,{domain},REJECT" for domain in sorted(domains)],
         "",
     ]

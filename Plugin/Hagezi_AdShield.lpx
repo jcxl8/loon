@@ -1,11 +1,13 @@
 #!name=HaGeZi Ad Shield（远程更新）
-#!desc=自动同步 HaGeZi Ad-Shield 域名清单，拦截广告恢复、反广告拦截与相关广告域名
-#!author=jcxl8 / HaGeZi
+#!desc=自动同步 HaGeZi Ad-Shield，并远程引用 anti-AD 中文广告域名集
+#!author=jcxl8 / HaGeZi / anti-AD
 #!homepage=https://github.com/hagezi/dns-blocklists
-#!tag=广告拦截,Ad-Shield,远程更新
+#!tag=广告拦截,Ad-Shield,anti-AD,远程更新
 
 [Rule]
-# Generated from HaGeZi ad-shield.txt, ad-shield-subdomains.txt and ad-shield-adblock.txt
+# HaGeZi ad-shield.txt, ad-shield-subdomains.txt and ad-shield-adblock.txt
+# anti-AD 中文广告域名集（云端维护）
+DOMAIN-SET,https://anti-ad.net/surge2.txt,REJECT
 DOMAIN-SUFFIX,0.07c225f3.online,REJECT
 DOMAIN-SUFFIX,0.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,0.ackprovided.com,REJECT
@@ -141,6 +143,7 @@ DOMAIN-SUFFIX,0.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,0.stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,0.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,0.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,0.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,0.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,0.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,0.stg.bog.sansmadly.com,REJECT
@@ -222,6 +225,7 @@ DOMAIN-SUFFIX,0.wheredimly.com,REJECT
 DOMAIN-SUFFIX,0.whichbrisk.com,REJECT
 DOMAIN-SUFFIX,0.whichfreely.com,REJECT
 DOMAIN-SUFFIX,0.whoeverbeyond.com,REJECT
+DOMAIN-SUFFIX,0.www.84302764.xyz,REJECT
 DOMAIN-SUFFIX,0.www.cheetahhowevertowardsfrom.com,REJECT
 DOMAIN-SUFFIX,0.www.forkstrictly.com,REJECT
 DOMAIN-SUFFIX,0.www.rundowndeep.com,REJECT
@@ -354,6 +358,7 @@ DOMAIN-SUFFIX,1.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,1.stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,1.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,1.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,1.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,1.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,1.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,1.stg.bog.sansmadly.com,REJECT
@@ -563,6 +568,7 @@ DOMAIN-SUFFIX,2.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,2.stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,2.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,2.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,2.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,2.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,2.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,2.stg.bog.sansmadly.com,REJECT
@@ -777,6 +783,7 @@ DOMAIN-SUFFIX,3.stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,3.stg.artisticsway.com,REJECT
 DOMAIN-SUFFIX,3.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,3.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,3.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,3.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,3.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,3.stg.bog.sansmadly.com,REJECT
@@ -839,9 +846,11 @@ DOMAIN-SUFFIX,3.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,3.tail.cuddlyruddy.com,REJECT
 DOMAIN-SUFFIX,3.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,3.unfreezehuge.com,REJECT
+DOMAIN-SUFFIX,3.v.c.html-load.com,REJECT
 DOMAIN-SUFFIX,3.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,3.v.html-load.com,REJECT
 DOMAIN-SUFFIX,3.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,3.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,3.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,3.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,3.v.stg.html-load.com,REJECT
@@ -989,6 +998,7 @@ DOMAIN-SUFFIX,4.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,4.stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,4.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,4.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,4.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,4.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,4.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,4.stg.bog.sansmadly.com,REJECT
@@ -1206,6 +1216,7 @@ DOMAIN-SUFFIX,5.stg.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,5.stg.artisticsway.com,REJECT
 DOMAIN-SUFFIX,5.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,5.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,5.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,5.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,5.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,5.stg.bog.sansmadly.com,REJECT
@@ -1413,6 +1424,7 @@ DOMAIN-SUFFIX,6.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,6.stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,6.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,6.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,6.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,6.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,6.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,6.stg.bog.sansmadly.com,REJECT
@@ -1623,6 +1635,7 @@ DOMAIN-SUFFIX,7.stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,7.stg.artisticsway.com,REJECT
 DOMAIN-SUFFIX,7.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,7.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,7.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,7.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,7.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,7.stg.bog.sansmadly.com,REJECT
@@ -1835,6 +1848,7 @@ DOMAIN-SUFFIX,8.stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,8.stg.artisticsway.com,REJECT
 DOMAIN-SUFFIX,8.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,8.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,8.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,8.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,8.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,8.stg.bog.sansmadly.com,REJECT
@@ -2042,6 +2056,7 @@ DOMAIN-SUFFIX,9.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,9.stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,9.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,9.stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,9.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,9.stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,9.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,9.stg.bog.sansmadly.com,REJECT
@@ -2178,6 +2193,7 @@ DOMAIN-SUFFIX,becausepishworth.com,REJECT
 DOMAIN-SUFFIX,bend.frizzsince.com,REJECT
 DOMAIN-SUFFIX,bend.ouchvibration.com,REJECT
 DOMAIN-SUFFIX,beyondpastpsst.com,REJECT
+DOMAIN-SUFFIX,bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,blahorderly.com,REJECT
 DOMAIN-SUFFIX,blahwhoever.com,REJECT
 DOMAIN-SUFFIX,blindlyandpfft.com,REJECT
@@ -2599,6 +2615,7 @@ DOMAIN-SUFFIX,stg.ackzany.com,REJECT
 DOMAIN-SUFFIX,stg.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,stg.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,stg.blissfullyzebra.com,REJECT
 DOMAIN-SUFFIX,stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,stg.bog.sansmadly.com,REJECT
@@ -2688,6 +2705,7 @@ DOMAIN-SUFFIX,translationwell.com,REJECT
 DOMAIN-SUFFIX,tribegadzooks.com,REJECT
 DOMAIN-SUFFIX,trivialblowgun.com,REJECT
 DOMAIN-SUFFIX,tuba.stiffpast.com,REJECT
+DOMAIN-SUFFIX,tuba.worstloftily.com,REJECT
 DOMAIN-SUFFIX,tutjuggernaut.com,REJECT
 DOMAIN-SUFFIX,ughjubilantly.com,REJECT
 DOMAIN-SUFFIX,ughmouldhusky.com,REJECT
