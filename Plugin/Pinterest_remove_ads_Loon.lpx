@@ -6,11 +6,13 @@
 
 [Rule]
 # Static privacy and advertising endpoints
+# Core/regional Pinterest sites such as ar.pinterest.com are intentionally not blocked.
 DOMAIN,cookiesync.mparticle.com,REJECT
 DOMAIN,d.agkn.com,REJECT
 DOMAIN-SUFFIX,adjust.com,REJECT
 DOMAIN-SUFFIX,ads-dev.pinterest.com,REJECT
 DOMAIN-SUFFIX,ads.pinterest.com,REJECT
+DOMAIN-SUFFIX,analytics-dev.pinterest.com,REJECT
 DOMAIN-SUFFIX,analytics.pinterest.com,REJECT
 DOMAIN-SUFFIX,app-measurement.com,REJECT
 DOMAIN-SUFFIX,appsflyersdk.com,REJECT

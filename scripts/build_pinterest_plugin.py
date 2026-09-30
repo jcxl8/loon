@@ -33,6 +33,27 @@ STATIC_RULES = {
     ("DOMAIN-SUFFIX", "bouncex.net"),
     ("DOMAIN-SUFFIX", "zenimpact.io"),
     ("DOMAIN", "cookiesync.mparticle.com"),
+    ("DOMAIN-SUFFIX", "ads-dev.pinterest.com"),
+    ("DOMAIN-SUFFIX", "ads.pinterest.com"),
+    ("DOMAIN-SUFFIX", "analytics-dev.pinterest.com"),
+    ("DOMAIN-SUFFIX", "analytics.pinterest.com"),
+    ("DOMAIN-SUFFIX", "ct.pinterest.com"),
+    ("DOMAIN-SUFFIX", "log.pinterest.com"),
+    ("DOMAIN-SUFFIX", "log.pinterest.com.eg"),
+    ("DOMAIN-SUFFIX", "trk.pinterest.com"),
+    ("DOMAIN-SUFFIX", "trk2.pinterest.com"),
+}
+
+PINTEREST_AD_HOSTS = {
+    "ads-dev.pinterest.com",
+    "ads.pinterest.com",
+    "analytics-dev.pinterest.com",
+    "analytics.pinterest.com",
+    "ct.pinterest.com",
+    "log.pinterest.com",
+    "log.pinterest.com.eg",
+    "trk.pinterest.com",
+    "trk2.pinterest.com",
 }
 
 REWRITE_RULES = [
@@ -47,8 +68,12 @@ def pinterest_hosts() -> set[str]:
     hosts: set[str] = set()
     for url in HAGEZI_SOURCES.values():
         for host in parse_adblock(fetch(url)):
-            # Keep Pinterest ad/tracking subdomains, never the Pinterest site apexes.
-            if host == "pinterest.com" or host.startswith("pinterest."):
+            # Keep ad/tracking endpoints, never core or regional Pinterest sites.
+            if (
+                host == "pinterest.com"
+                or host.startswith("pinterest.")
+                or (host.endswith(".pinterest.com") and host not in PINTEREST_AD_HOSTS)
+            ):
                 continue
             if "pinterest" in host or "pinimg" in host:
                 hosts.add(host)
@@ -69,6 +94,7 @@ def build() -> int:
         "",
         "[Rule]",
         "# Static privacy and advertising endpoints",
+        "# Core/regional Pinterest sites such as ar.pinterest.com are intentionally not blocked.",
         *[f"{kind},{host},REJECT" for kind, host in sorted(rules)],
         "",
         "[Rewrite]",
