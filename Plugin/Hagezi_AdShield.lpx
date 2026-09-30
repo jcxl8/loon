@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,0.astrideentire.com,REJECT
 DOMAIN-SUFFIX,0.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,0.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,0.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,0.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,0.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,0.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,0.blissfullyzebra.com,REJECT
@@ -72,6 +73,7 @@ DOMAIN-SUFFIX,0.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,0.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,0.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,0.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,0.gahlively.com,REJECT
 DOMAIN-SUFFIX,0.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,0.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,0.grubbytrain.com,REJECT
@@ -212,6 +214,7 @@ DOMAIN-SUFFIX,0.v.c.html-load.com,REJECT
 DOMAIN-SUFFIX,0.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,0.v.html-load.com,REJECT
 DOMAIN-SUFFIX,0.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,0.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,0.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,0.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,0.v.stg.html-load.com,REJECT
@@ -225,7 +228,6 @@ DOMAIN-SUFFIX,0.wheredimly.com,REJECT
 DOMAIN-SUFFIX,0.whichbrisk.com,REJECT
 DOMAIN-SUFFIX,0.whichfreely.com,REJECT
 DOMAIN-SUFFIX,0.whoeverbeyond.com,REJECT
-DOMAIN-SUFFIX,0.www.84302764.xyz,REJECT
 DOMAIN-SUFFIX,0.www.cheetahhowevertowardsfrom.com,REJECT
 DOMAIN-SUFFIX,0.www.forkstrictly.com,REJECT
 DOMAIN-SUFFIX,0.www.rundowndeep.com,REJECT
@@ -249,6 +251,7 @@ DOMAIN-SUFFIX,1.asloader.tz.de,REJECT
 DOMAIN-SUFFIX,1.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,1.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,1.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,1.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,1.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,1.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,1.blissfullyzebra.com,REJECT
@@ -290,6 +293,7 @@ DOMAIN-SUFFIX,1.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,1.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,1.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,1.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,1.gahlively.com,REJECT
 DOMAIN-SUFFIX,1.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,1.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,1.grubbytrain.com,REJECT
@@ -424,6 +428,7 @@ DOMAIN-SUFFIX,1.unfreezehuge.com,REJECT
 DOMAIN-SUFFIX,1.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,1.v.html-load.com,REJECT
 DOMAIN-SUFFIX,1.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,1.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,1.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,1.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,1.v.stg.html-load.com,REJECT
@@ -459,6 +464,7 @@ DOMAIN-SUFFIX,2.astrideentire.com,REJECT
 DOMAIN-SUFFIX,2.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,2.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,2.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,2.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,2.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,2.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,2.blissfullyzebra.com,REJECT
@@ -501,6 +507,7 @@ DOMAIN-SUFFIX,2.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,2.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,2.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,2.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,2.gahlively.com,REJECT
 DOMAIN-SUFFIX,2.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,2.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,2.grubbytrain.com,REJECT
@@ -635,6 +642,7 @@ DOMAIN-SUFFIX,2.upbeatbut.com,REJECT
 DOMAIN-SUFFIX,2.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,2.v.html-load.com,REJECT
 DOMAIN-SUFFIX,2.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,2.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,2.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,2.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,2.v.stg.html-load.com,REJECT
@@ -671,6 +679,7 @@ DOMAIN-SUFFIX,3.astrideentire.com,REJECT
 DOMAIN-SUFFIX,3.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,3.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,3.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,3.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,3.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,3.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,3.blissfullyzebra.com,REJECT
@@ -714,6 +723,7 @@ DOMAIN-SUFFIX,3.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,3.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,3.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,3.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,3.gahlively.com,REJECT
 DOMAIN-SUFFIX,3.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,3.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,3.grubbytrain.com,REJECT
@@ -891,6 +901,7 @@ DOMAIN-SUFFIX,4.astrideentire.com,REJECT
 DOMAIN-SUFFIX,4.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,4.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,4.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,4.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,4.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,4.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,4.blissfullyzebra.com,REJECT
@@ -933,6 +944,7 @@ DOMAIN-SUFFIX,4.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,4.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,4.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,4.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,4.gahlively.com,REJECT
 DOMAIN-SUFFIX,4.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,4.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,4.grubbytrain.com,REJECT
@@ -1065,6 +1077,7 @@ DOMAIN-SUFFIX,4.unfreezehuge.com,REJECT
 DOMAIN-SUFFIX,4.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,4.v.html-load.com,REJECT
 DOMAIN-SUFFIX,4.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,4.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,4.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,4.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,4.v.stg.html-load.com,REJECT
@@ -1102,6 +1115,7 @@ DOMAIN-SUFFIX,5.astrideentire.com,REJECT
 DOMAIN-SUFFIX,5.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,5.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,5.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,5.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,5.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,5.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,5.blissfullyzebra.com,REJECT
@@ -1148,6 +1162,7 @@ DOMAIN-SUFFIX,5.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,5.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,5.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,5.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,5.gahlively.com,REJECT
 DOMAIN-SUFFIX,5.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,5.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,5.grubbytrain.com,REJECT
@@ -1281,6 +1296,7 @@ DOMAIN-SUFFIX,5.unfreezehuge.com,REJECT
 DOMAIN-SUFFIX,5.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,5.v.html-load.com,REJECT
 DOMAIN-SUFFIX,5.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,5.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,5.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,5.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,5.v.stg.html-load.com,REJECT
@@ -1316,6 +1332,7 @@ DOMAIN-SUFFIX,6.astrideentire.com,REJECT
 DOMAIN-SUFFIX,6.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,6.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,6.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,6.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,6.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,6.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,6.blissfullyzebra.com,REJECT
@@ -1358,6 +1375,7 @@ DOMAIN-SUFFIX,6.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,6.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,6.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,6.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,6.gahlively.com,REJECT
 DOMAIN-SUFFIX,6.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,6.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,6.grubbytrain.com,REJECT
@@ -1491,6 +1509,7 @@ DOMAIN-SUFFIX,6.v.c.html-load.com,REJECT
 DOMAIN-SUFFIX,6.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,6.v.html-load.com,REJECT
 DOMAIN-SUFFIX,6.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,6.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,6.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,6.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,6.v.stg.jazz.abovesave.com,REJECT
@@ -1526,6 +1545,7 @@ DOMAIN-SUFFIX,7.astrideentire.com,REJECT
 DOMAIN-SUFFIX,7.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,7.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,7.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,7.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,7.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,7.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,7.blissfullyzebra.com,REJECT
@@ -1566,6 +1586,7 @@ DOMAIN-SUFFIX,7.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,7.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,7.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,7.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,7.gahlively.com,REJECT
 DOMAIN-SUFFIX,7.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,7.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,7.grubbytrain.com,REJECT
@@ -1703,6 +1724,7 @@ DOMAIN-SUFFIX,7.unfreezehuge.com,REJECT
 DOMAIN-SUFFIX,7.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,7.v.html-load.com,REJECT
 DOMAIN-SUFFIX,7.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,7.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,7.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,7.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,7.v.stg.html-load.com,REJECT
@@ -1739,6 +1761,7 @@ DOMAIN-SUFFIX,8.astrideentire.com,REJECT
 DOMAIN-SUFFIX,8.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,8.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,8.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,8.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,8.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,8.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,8.blissfullyzebra.com,REJECT
@@ -1780,6 +1803,7 @@ DOMAIN-SUFFIX,8.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,8.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,8.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,8.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,8.gahlively.com,REJECT
 DOMAIN-SUFFIX,8.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,8.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,8.grubbytrain.com,REJECT
@@ -1913,6 +1937,7 @@ DOMAIN-SUFFIX,8.unfreezehuge.com,REJECT
 DOMAIN-SUFFIX,8.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,8.v.html-load.com,REJECT
 DOMAIN-SUFFIX,8.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,8.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,8.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,8.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,8.v.stg.html-load.com,REJECT
@@ -1949,6 +1974,7 @@ DOMAIN-SUFFIX,9.astrideentire.com,REJECT
 DOMAIN-SUFFIX,9.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,9.atopooflumpy.com,REJECT
 DOMAIN-SUFFIX,9.bend.frizzsince.com,REJECT
+DOMAIN-SUFFIX,9.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,9.blahwhoever.com,REJECT
 DOMAIN-SUFFIX,9.blindlyandpfft.com,REJECT
 DOMAIN-SUFFIX,9.blissfullyzebra.com,REJECT
@@ -1990,6 +2016,7 @@ DOMAIN-SUFFIX,9.fun.browseteriyaki.com,REJECT
 DOMAIN-SUFFIX,9.fun.contentyet.com,REJECT
 DOMAIN-SUFFIX,9.gadzooksrudely.com,REJECT
 DOMAIN-SUFFIX,9.gahfinallytame.com,REJECT
+DOMAIN-SUFFIX,9.gahlively.com,REJECT
 DOMAIN-SUFFIX,9.gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,9.gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,9.grubbytrain.com,REJECT
@@ -2121,6 +2148,7 @@ DOMAIN-SUFFIX,9.upbeatbut.com,REJECT
 DOMAIN-SUFFIX,9.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,9.v.html-load.com,REJECT
 DOMAIN-SUFFIX,9.v.s.html-load.com,REJECT
+DOMAIN-SUFFIX,9.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,9.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,9.v.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,9.v.stg.html-load.com,REJECT
@@ -2705,7 +2733,6 @@ DOMAIN-SUFFIX,translationwell.com,REJECT
 DOMAIN-SUFFIX,tribegadzooks.com,REJECT
 DOMAIN-SUFFIX,trivialblowgun.com,REJECT
 DOMAIN-SUFFIX,tuba.stiffpast.com,REJECT
-DOMAIN-SUFFIX,tuba.worstloftily.com,REJECT
 DOMAIN-SUFFIX,tutjuggernaut.com,REJECT
 DOMAIN-SUFFIX,ughjubilantly.com,REJECT
 DOMAIN-SUFFIX,ughmouldhusky.com,REJECT
@@ -2724,6 +2751,7 @@ DOMAIN-SUFFIX,upbeatdualyahoo.com,REJECT
 DOMAIN-SUFFIX,uprightfondly.com,REJECT
 DOMAIN-SUFFIX,uselesslyswiftprovided.com,REJECT
 DOMAIN-SUFFIX,v.html-load.com,REJECT
+DOMAIN-SUFFIX,v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,v.stg.coin.thanabaft.com,REJECT
 DOMAIN-SUFFIX,v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,v.stg.desk.unlesscool.com,REJECT
