@@ -56,10 +56,22 @@ PINTEREST_AD_HOSTS = {
     "trk2.pinterest.com",
 }
 
+SEARCH_ITEM_KEEP = (
+    '(.story_type? != "shopping_spotlight") and '
+    '(.story_type? != "slp_search_recommendation") and '
+    '(.title.format? != "购物焦点") and '
+    '(.is_promoted? != true) and '
+    '(.is_promoted? != "true") and '
+    '(.pin_promotion_id? == null) and '
+    '(.promoted_pin_id? == null) and '
+    '(.ad_pin_id? == null) and '
+    '(.promotion_id? == null)'
+)
+
 REWRITE_RULES = [
     r"""^https:\/\/api\.pinterest\.com\/v\d+\/feeds\/home\? response-body-json-jq '.data |= map(select(.is_promoted == false or .is_promoted == "false"))'""",
     r"""^https:\/\/api\.pinterest\.com\/v\d+\/pins\/\d+\/related\/modules\? response-body-json-jq '.data |= map(select(.is_promoted == false or .is_promoted == "false"))'""",
-    r"""^https:\/\/api\.pinterest\.com\/v\d+\/search\/ response-body-json-jq 'if (.resource_response.data.results? | type) == "array" then .resource_response.data.results |= map(select((.is_promoted? != true) and (.is_promoted? != "true") and (.pin_promotion_id? == null) and (.promoted_pin_id? == null) and (.ad_pin_id? == null) and (.promotion_id? == null))) elif (.resource_response.data? | type) == "array" then .resource_response.data |= map(select((.is_promoted? != true) and (.is_promoted? != "true") and (.pin_promotion_id? == null) and (.promoted_pin_id? == null) and (.ad_pin_id? == null) and (.promotion_id? == null))) elif (.data.results? | type) == "array" then .data.results |= map(select((.is_promoted? != true) and (.is_promoted? != "true") and (.pin_promotion_id? == null) and (.promoted_pin_id? == null) and (.ad_pin_id? == null) and (.promotion_id? == null))) elif (.data? | type) == "array" then .data |= map(select((.is_promoted? != true) and (.is_promoted? != "true") and (.pin_promotion_id? == null) and (.promoted_pin_id? == null) and (.ad_pin_id? == null) and (.promotion_id? == null))) else . end'""",
+    rf"""^https:\/\/api\.pinterest\.com\/v\d+\/search\/ response-body-json-jq 'if (.resource_response.data.results? | type) == "array" then .resource_response.data.results |= map(select({SEARCH_ITEM_KEEP})) elif (.resource_response.data? | type) == "array" then .resource_response.data |= map(select({SEARCH_ITEM_KEEP})) elif (.data.results? | type) == "array" then .data.results |= map(select({SEARCH_ITEM_KEEP})) elif (.data? | type) == "array" then .data |= map(select({SEARCH_ITEM_KEEP})) else . end'""",
     r"""^https:\/\/api\.pinterest\.com\/v\d+\/batch\/ response-body-json-jq 'walk(if type == "object" and ((.is_promoted? == true) or (.is_promoted? == "true") or (.pin_promotion_id? != null) or (.promoted_pin_id? != null) or (.ad_pin_id? != null) or (.promotion_id? != null) or (.is_sponsored? == true) or (.is_sponsored? == "true")) then empty else . end)'""",
 ]
 
