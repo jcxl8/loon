@@ -59,6 +59,7 @@ PINTEREST_AD_HOSTS = {
 SEARCH_ITEM_KEEP = (
     '(.story_type? != "shopping_spotlight") and '
     '(.story_type? != "slp_search_recommendation") and '
+    '(.story_type? != "related_searches_organic") and '
     '(.title.format? != "购物焦点") and '
     '(.is_promoted? != true) and '
     '(.is_promoted? != "true") and '
