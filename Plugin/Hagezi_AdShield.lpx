@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,0.ackzany.com,REJECT
 DOMAIN-SUFFIX,0.alb.undermeh.com,REJECT
 DOMAIN-SUFFIX,0.angrilybefore.com,REJECT
 DOMAIN-SUFFIX,0.annualrallybran.com,REJECT
+DOMAIN-SUFFIX,0.aridround.com,REJECT
 DOMAIN-SUFFIX,0.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,0.artisticsway.com,REJECT
 DOMAIN-SUFFIX,0.as.slashdot.org,REJECT
@@ -47,6 +48,7 @@ DOMAIN-SUFFIX,0.cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,0.css-load.com,REJECT
 DOMAIN-SUFFIX,0.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,0.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,0.deployfondly.com,REJECT
 DOMAIN-SUFFIX,0.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,0.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,0.dish.punctualbut.com,REJECT
@@ -146,6 +148,7 @@ DOMAIN-SUFFIX,0.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,0.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,0.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,0.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,0.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,0.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,0.stg.bend.frizzsince.com,REJECT
 DOMAIN-SUFFIX,0.stg.bid.pleasedmad.com,REJECT
@@ -160,6 +163,7 @@ DOMAIN-SUFFIX,0.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,0.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,0.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,0.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,0.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,0.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,0.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,0.stg.findingmid.com,REJECT
@@ -245,6 +249,7 @@ DOMAIN-SUFFIX,1.07c225f3.online,REJECT
 DOMAIN-SUFFIX,1.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,1.ackzany.com,REJECT
 DOMAIN-SUFFIX,1.angrilybefore.com,REJECT
+DOMAIN-SUFFIX,1.aridround.com,REJECT
 DOMAIN-SUFFIX,1.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,1.artisticsway.com,REJECT
 DOMAIN-SUFFIX,1.as.slashdot.org,REJECT
@@ -272,6 +277,7 @@ DOMAIN-SUFFIX,1.cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,1.css-load.com,REJECT
 DOMAIN-SUFFIX,1.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,1.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,1.deployfondly.com,REJECT
 DOMAIN-SUFFIX,1.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,1.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,1.disk.withreadily.com,REJECT
@@ -363,6 +369,7 @@ DOMAIN-SUFFIX,1.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,1.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,1.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,1.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,1.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,1.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,1.stg.bend.frizzsince.com,REJECT
 DOMAIN-SUFFIX,1.stg.bid.pleasedmad.com,REJECT
@@ -377,6 +384,7 @@ DOMAIN-SUFFIX,1.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,1.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,1.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,1.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,1.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,1.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,1.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,1.stg.findingmid.com,REJECT
@@ -457,6 +465,7 @@ DOMAIN-SUFFIX,2.07c225f3.online,REJECT
 DOMAIN-SUFFIX,2.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,2.ackzany.com,REJECT
 DOMAIN-SUFFIX,2.angrilybefore.com,REJECT
+DOMAIN-SUFFIX,2.aridround.com,REJECT
 DOMAIN-SUFFIX,2.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,2.artisticsway.com,REJECT
 DOMAIN-SUFFIX,2.as.slashdot.org,REJECT
@@ -486,6 +495,7 @@ DOMAIN-SUFFIX,2.cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,2.css-load.com,REJECT
 DOMAIN-SUFFIX,2.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,2.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,2.deployfondly.com,REJECT
 DOMAIN-SUFFIX,2.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,2.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,2.disk.withreadily.com,REJECT
@@ -576,6 +586,7 @@ DOMAIN-SUFFIX,2.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,2.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,2.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,2.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,2.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,2.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,2.stg.bend.frizzsince.com,REJECT
 DOMAIN-SUFFIX,2.stg.bid.pleasedmad.com,REJECT
@@ -590,6 +601,7 @@ DOMAIN-SUFFIX,2.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,2.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,2.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,2.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,2.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,2.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,2.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,2.stg.findingmid.com,REJECT
@@ -672,6 +684,7 @@ DOMAIN-SUFFIX,3.07c225f3.online,REJECT
 DOMAIN-SUFFIX,3.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,3.ackprovided.com,REJECT
 DOMAIN-SUFFIX,3.angrilybefore.com,REJECT
+DOMAIN-SUFFIX,3.aridround.com,REJECT
 DOMAIN-SUFFIX,3.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,3.artisticsway.com,REJECT
 DOMAIN-SUFFIX,3.as.slashdot.org,REJECT
@@ -701,6 +714,7 @@ DOMAIN-SUFFIX,3.cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,3.css-load.com,REJECT
 DOMAIN-SUFFIX,3.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,3.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,3.deployfondly.com,REJECT
 DOMAIN-SUFFIX,3.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,3.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,3.disk.withreadily.com,REJECT
@@ -793,6 +807,7 @@ DOMAIN-SUFFIX,3.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,3.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,3.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,3.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,3.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,3.stg.artisticsway.com,REJECT
 DOMAIN-SUFFIX,3.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,3.stg.bend.frizzsince.com,REJECT
@@ -808,6 +823,7 @@ DOMAIN-SUFFIX,3.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,3.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,3.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,3.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,3.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,3.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,3.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,3.stg.findingmid.com,REJECT
@@ -894,6 +910,7 @@ DOMAIN-SUFFIX,4.07c225f3.online,REJECT
 DOMAIN-SUFFIX,4.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,4.ackprovided.com,REJECT
 DOMAIN-SUFFIX,4.angrilybefore.com,REJECT
+DOMAIN-SUFFIX,4.aridround.com,REJECT
 DOMAIN-SUFFIX,4.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,4.artisticsway.com,REJECT
 DOMAIN-SUFFIX,4.as.slashdot.org,REJECT
@@ -923,6 +940,7 @@ DOMAIN-SUFFIX,4.cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,4.css-load.com,REJECT
 DOMAIN-SUFFIX,4.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,4.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,4.deployfondly.com,REJECT
 DOMAIN-SUFFIX,4.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,4.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,4.disk.withreadily.com,REJECT
@@ -1011,6 +1029,7 @@ DOMAIN-SUFFIX,4.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,4.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,4.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,4.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,4.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,4.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,4.stg.bend.frizzsince.com,REJECT
 DOMAIN-SUFFIX,4.stg.bid.pleasedmad.com,REJECT
@@ -1025,6 +1044,7 @@ DOMAIN-SUFFIX,4.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,4.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,4.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,4.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,4.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,4.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,4.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,4.stg.findingmid.com,REJECT
@@ -1108,6 +1128,7 @@ DOMAIN-SUFFIX,5.07c225f3.online,REJECT
 DOMAIN-SUFFIX,5.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,5.ackprovided.com,REJECT
 DOMAIN-SUFFIX,5.angrilybefore.com,REJECT
+DOMAIN-SUFFIX,5.aridround.com,REJECT
 DOMAIN-SUFFIX,5.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,5.artisticsway.com,REJECT
 DOMAIN-SUFFIX,5.as.slashdot.org,REJECT
@@ -1139,6 +1160,7 @@ DOMAIN-SUFFIX,5.css-load.com,REJECT
 DOMAIN-SUFFIX,5.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,5.dead.boowithout.com,REJECT
 DOMAIN-SUFFIX,5.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,5.deployfondly.com,REJECT
 DOMAIN-SUFFIX,5.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,5.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,5.disk.withreadily.com,REJECT
@@ -1230,6 +1252,7 @@ DOMAIN-SUFFIX,5.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,5.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,5.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,5.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,5.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,5.stg.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,5.stg.artisticsway.com,REJECT
 DOMAIN-SUFFIX,5.stg.athwartwhoafat.com,REJECT
@@ -1246,6 +1269,7 @@ DOMAIN-SUFFIX,5.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,5.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,5.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,5.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,5.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,5.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,5.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,5.stg.findingmid.com,REJECT
@@ -1325,6 +1349,7 @@ DOMAIN-SUFFIX,6.07c225f3.online,REJECT
 DOMAIN-SUFFIX,6.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,6.ackprovided.com,REJECT
 DOMAIN-SUFFIX,6.angrilybefore.com,REJECT
+DOMAIN-SUFFIX,6.aridround.com,REJECT
 DOMAIN-SUFFIX,6.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,6.artisticsway.com,REJECT
 DOMAIN-SUFFIX,6.as.slashdot.org,REJECT
@@ -1353,6 +1378,7 @@ DOMAIN-SUFFIX,6.cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,6.css-load.com,REJECT
 DOMAIN-SUFFIX,6.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,6.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,6.deployfondly.com,REJECT
 DOMAIN-SUFFIX,6.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,6.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,6.disk.withreadily.com,REJECT
@@ -1443,6 +1469,7 @@ DOMAIN-SUFFIX,6.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,6.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,6.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,6.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,6.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,6.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,6.stg.bend.frizzsince.com,REJECT
 DOMAIN-SUFFIX,6.stg.bid.pleasedmad.com,REJECT
@@ -1457,6 +1484,7 @@ DOMAIN-SUFFIX,6.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,6.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,6.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,6.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,6.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,6.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,6.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,6.stg.findingmid.com,REJECT
@@ -1538,6 +1566,7 @@ DOMAIN-SUFFIX,7.07c225f3.online,REJECT
 DOMAIN-SUFFIX,7.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,7.ackzany.com,REJECT
 DOMAIN-SUFFIX,7.angrilybefore.com,REJECT
+DOMAIN-SUFFIX,7.aridround.com,REJECT
 DOMAIN-SUFFIX,7.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,7.artisticsway.com,REJECT
 DOMAIN-SUFFIX,7.as.slashdot.org,REJECT
@@ -1565,6 +1594,7 @@ DOMAIN-SUFFIX,7.cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,7.css-load.com,REJECT
 DOMAIN-SUFFIX,7.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,7.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,7.deployfondly.com,REJECT
 DOMAIN-SUFFIX,7.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,7.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,7.disk.withreadily.com,REJECT
@@ -1656,6 +1686,7 @@ DOMAIN-SUFFIX,7.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,7.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,7.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,7.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,7.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,7.stg.artisticsway.com,REJECT
 DOMAIN-SUFFIX,7.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,7.stg.bend.frizzsince.com,REJECT
@@ -1671,6 +1702,7 @@ DOMAIN-SUFFIX,7.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,7.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,7.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,7.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,7.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,7.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,7.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,7.stg.findingmid.com,REJECT
@@ -1754,6 +1786,7 @@ DOMAIN-SUFFIX,8.07c225f3.online,REJECT
 DOMAIN-SUFFIX,8.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,8.ackzany.com,REJECT
 DOMAIN-SUFFIX,8.angrilybefore.com,REJECT
+DOMAIN-SUFFIX,8.aridround.com,REJECT
 DOMAIN-SUFFIX,8.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,8.artisticsway.com,REJECT
 DOMAIN-SUFFIX,8.as.slashdot.org,REJECT
@@ -1782,6 +1815,7 @@ DOMAIN-SUFFIX,8.cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,8.css-load.com,REJECT
 DOMAIN-SUFFIX,8.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,8.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,8.deployfondly.com,REJECT
 DOMAIN-SUFFIX,8.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,8.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,8.disk.withreadily.com,REJECT
@@ -1872,6 +1906,7 @@ DOMAIN-SUFFIX,8.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,8.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,8.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,8.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,8.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,8.stg.artisticsway.com,REJECT
 DOMAIN-SUFFIX,8.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,8.stg.bend.frizzsince.com,REJECT
@@ -1887,6 +1922,7 @@ DOMAIN-SUFFIX,8.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,8.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,8.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,8.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,8.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,8.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,8.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,8.stg.findingmid.com,REJECT
@@ -1967,6 +2003,7 @@ DOMAIN-SUFFIX,9.07c225f3.online,REJECT
 DOMAIN-SUFFIX,9.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,9.ackzany.com,REJECT
 DOMAIN-SUFFIX,9.angrilybefore.com,REJECT
+DOMAIN-SUFFIX,9.aridround.com,REJECT
 DOMAIN-SUFFIX,9.aroundwhoever.com,REJECT
 DOMAIN-SUFFIX,9.artisticsway.com,REJECT
 DOMAIN-SUFFIX,9.as.slashdot.org,REJECT
@@ -1995,6 +2032,7 @@ DOMAIN-SUFFIX,9.cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,9.css-load.com,REJECT
 DOMAIN-SUFFIX,9.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,9.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,9.deployfondly.com,REJECT
 DOMAIN-SUFFIX,9.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,9.dimlyfly.com,REJECT
 DOMAIN-SUFFIX,9.disk.withreadily.com,REJECT
@@ -2084,6 +2122,7 @@ DOMAIN-SUFFIX,9.soup.boblovable.com,REJECT
 DOMAIN-SUFFIX,9.stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,9.stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,9.stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,9.stg.aridround.com,REJECT
 DOMAIN-SUFFIX,9.stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,9.stg.bend.frizzsince.com,REJECT
 DOMAIN-SUFFIX,9.stg.bid.pleasedmad.com,REJECT
@@ -2098,6 +2137,7 @@ DOMAIN-SUFFIX,9.stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,9.stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,9.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,9.stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,9.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,9.stg.desk.unlesscool.com,REJECT
 DOMAIN-SUFFIX,9.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,9.stg.findingmid.com,REJECT
@@ -2243,9 +2283,9 @@ DOMAIN-SUFFIX,bump.misreportmeh.com,REJECT
 DOMAIN-SUFFIX,bump.mostlyfor.com,REJECT
 DOMAIN-SUFFIX,buticksplurge.com,REJECT
 DOMAIN-SUFFIX,butwhereverhabit.com,REJECT
+DOMAIN-SUFFIX,c.coil.indeedmom.com,REJECT
 DOMAIN-SUFFIX,c.fakt.pl,REJECT
 DOMAIN-SUFFIX,c.html-load.com,REJECT
-DOMAIN-SUFFIX,c.pick.palateonce.com,REJECT
 DOMAIN-SUFFIX,cake.kiddinglyeven.com,REJECT
 DOMAIN-SUFFIX,cake.windowthink.com,REJECT
 DOMAIN-SUFFIX,candidpick.com,REJECT
@@ -2260,6 +2300,7 @@ DOMAIN-SUFFIX,changedadroitharassment.com,REJECT
 DOMAIN-SUFFIX,cheetahhowevertowardsfrom.com,REJECT
 DOMAIN-SUFFIX,cinemaonceoddlyfatal.com,REJECT
 DOMAIN-SUFFIX,coal.partridgepuny.com,REJECT
+DOMAIN-SUFFIX,coil.indeedmom.com,REJECT
 DOMAIN-SUFFIX,coil.nowmodulo.com,REJECT
 DOMAIN-SUFFIX,coil.yowzabrr.com,REJECT
 DOMAIN-SUFFIX,coin.thanabaft.com,REJECT
@@ -2278,6 +2319,7 @@ DOMAIN-SUFFIX,cow.huntforenenst.com,REJECT
 DOMAIN-SUFFIX,cow.whoeverfestival.com,REJECT
 DOMAIN-SUFFIX,crazychime.com,REJECT
 DOMAIN-SUFFIX,css-load.com,REJECT
+DOMAIN-SUFFIX,cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,cuddlyruddy.com,REJECT
 DOMAIN-SUFFIX,curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,curl.scareduntil.com,REJECT
@@ -2297,6 +2339,7 @@ DOMAIN-SUFFIX,deeplyangrily.com,REJECT
 DOMAIN-SUFFIX,deeplypishtennisscale.com,REJECT
 DOMAIN-SUFFIX,degeneratebasket.com,REJECT
 DOMAIN-SUFFIX,deletewoefully.com,REJECT
+DOMAIN-SUFFIX,deployfondly.com,REJECT
 DOMAIN-SUFFIX,designpant.com,REJECT
 DOMAIN-SUFFIX,desk.oldgladly.com,REJECT
 DOMAIN-SUFFIX,desk.unlesscool.com,REJECT
@@ -2325,6 +2368,7 @@ DOMAIN-SUFFIX,dwelllestcatch.com,REJECT
 DOMAIN-SUFFIX,ea6c0ac4.xyz,REJECT
 DOMAIN-SUFFIX,ecstaticgahtusk.com,REJECT
 DOMAIN-SUFFIX,edge.battleickhope.com,REJECT
+DOMAIN-SUFFIX,edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,eekknightsoon.com,REJECT
 DOMAIN-SUFFIX,elvermehwretched.com,REJECT
@@ -2423,6 +2467,7 @@ DOMAIN-SUFFIX,immensehoof.com,REJECT
 DOMAIN-SUFFIX,impanelsnarling.com,REJECT
 DOMAIN-SUFFIX,inasmuchnoisily.com,REJECT
 DOMAIN-SUFFIX,indeedgrass.com,REJECT
+DOMAIN-SUFFIX,indeedmom.com,REJECT
 DOMAIN-SUFFIX,info.ad-shield.io,REJECT
 DOMAIN-SUFFIX,info.error-report.com,REJECT
 DOMAIN-SUFFIX,instantlywhy.com,REJECT
@@ -2498,6 +2543,7 @@ DOMAIN-SUFFIX,lyre.milkyepic.com,REJECT
 DOMAIN-SUFFIX,lyre.sinceaware.com,REJECT
 DOMAIN-SUFFIX,m.funandnews.de,REJECT
 DOMAIN-SUFFIX,madoverpricey.com,REJECT
+DOMAIN-SUFFIX,mashsedately.com,REJECT
 DOMAIN-SUFFIX,meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,meal.withouthuzzah.com,REJECT
@@ -2560,6 +2606,7 @@ DOMAIN-SUFFIX,pishenormously.com,REJECT
 DOMAIN-SUFFIX,pishrust.com,REJECT
 DOMAIN-SUFFIX,pleasedmad.com,REJECT
 DOMAIN-SUFFIX,poorlylift.com,REJECT
+DOMAIN-SUFFIX,poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,prettywhy.com,REJECT
 DOMAIN-SUFFIX,providedwell.com,REJECT
 DOMAIN-SUFFIX,psstentice.com,REJECT
@@ -2572,6 +2619,7 @@ DOMAIN-SUFFIX,quaigloo.com,REJECT
 DOMAIN-SUFFIX,quiet-beggar.site,REJECT
 DOMAIN-SUFFIX,quietlythough.com,REJECT
 DOMAIN-SUFFIX,quit.tousleoutbid.com,REJECT
+DOMAIN-SUFFIX,quitcertify.com,REJECT
 DOMAIN-SUFFIX,rampfat.com,REJECT
 DOMAIN-SUFFIX,rawbeautifully.com,REJECT
 DOMAIN-SUFFIX,referenceirresponsible.com,REJECT
@@ -2644,6 +2692,7 @@ DOMAIN-SUFFIX,stg.abaftwetly.com,REJECT
 DOMAIN-SUFFIX,stg.ackprovided.com,REJECT
 DOMAIN-SUFFIX,stg.ackzany.com,REJECT
 DOMAIN-SUFFIX,stg.alb.undermeh.com,REJECT
+DOMAIN-SUFFIX,stg.aridround.com,REJECT
 DOMAIN-SUFFIX,stg.athwartwhoafat.com,REJECT
 DOMAIN-SUFFIX,stg.bend.frizzsince.com,REJECT
 DOMAIN-SUFFIX,stg.bid.pleasedmad.com,REJECT
@@ -2652,13 +2701,16 @@ DOMAIN-SUFFIX,stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,stg.bog.sansmadly.com,REJECT
 DOMAIN-SUFFIX,stg.brochureclear.com,REJECT
 DOMAIN-SUFFIX,stg.cash.expertminus.com,REJECT
+DOMAIN-SUFFIX,stg.coil.indeedmom.com,REJECT
 DOMAIN-SUFFIX,stg.coin.thanabaft.com,REJECT
 DOMAIN-SUFFIX,stg.content-loader.com,REJECT
 DOMAIN-SUFFIX,stg.curl.baritonepro.com,REJECT
 DOMAIN-SUFFIX,stg.curl.scareduntil.com,REJECT
 DOMAIN-SUFFIX,stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,stg.deck.amidstdeploy.com,REJECT
+DOMAIN-SUFFIX,stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,stg.flat.ackjoyouslyonto.com,REJECT
