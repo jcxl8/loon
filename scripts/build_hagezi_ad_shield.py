@@ -81,6 +81,8 @@ def build() -> tuple[int, dict[str, int]]:
         "#!tag=广告拦截,Ad-Shield,anti-AD,远程更新",
         "",
         "[Rule]",
+        "# Yahoo News 页面兼容：仅放行该精确 HTML 加载域名，不放行整个 html-load.com 或 yahoo.com",
+        "DOMAIN,0.yahoo-homepage.html-load.com,DIRECT",
         "# HaGeZi ad-shield.txt, ad-shield-subdomains.txt and ad-shield-adblock.txt",
         "# anti-AD 中文广告域名集（云端维护）",
         f"DOMAIN-SET,{ANTI_AD_DOMAIN_SET},REJECT",
