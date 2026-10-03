@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,0.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,0.drawbut.com,REJECT
 DOMAIN-SUFFIX,0.duhquietly.com,REJECT
 DOMAIN-SUFFIX,0.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,0.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,0.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,0.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,0.fb.stg.content-loader.com,REJECT
@@ -113,6 +114,7 @@ DOMAIN-SUFFIX,0.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,0.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,0.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,0.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,0.mashsedately.com,REJECT
 DOMAIN-SUFFIX,0.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,0.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,0.meanwhilelest.com,REJECT
@@ -126,6 +128,7 @@ DOMAIN-SUFFIX,0.peacefulmesh.com,REJECT
 DOMAIN-SUFFIX,0.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,0.pishrust.com,REJECT
 DOMAIN-SUFFIX,0.poorlylift.com,REJECT
+DOMAIN-SUFFIX,0.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,0.psstentice.com,REJECT
 DOMAIN-SUFFIX,0.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,0.psstyakuponfast.com,REJECT
@@ -165,6 +168,7 @@ DOMAIN-SUFFIX,0.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,0.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,0.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,0.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,0.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,0.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,0.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,0.stg.flat.ackjoyouslyonto.com,REJECT
@@ -194,6 +198,7 @@ DOMAIN-SUFFIX,0.stg.noisilyinstantly.com,REJECT
 DOMAIN-SUFFIX,0.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,0.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,0.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,0.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,0.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,0.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,0.stg.referwhen.com,REJECT
@@ -224,6 +229,7 @@ DOMAIN-SUFFIX,0.v.s.html-load.com,REJECT
 DOMAIN-SUFFIX,0.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,0.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,0.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,0.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,0.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,0.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,0.v.stg.jet.nicelymodulo.com,REJECT
@@ -284,6 +290,7 @@ DOMAIN-SUFFIX,1.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,1.drawbut.com,REJECT
 DOMAIN-SUFFIX,1.duhquietly.com,REJECT
 DOMAIN-SUFFIX,1.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,1.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,1.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,1.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,1.fb.stg.content-loader.com,REJECT
@@ -335,6 +342,7 @@ DOMAIN-SUFFIX,1.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,1.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,1.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,1.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,1.mashsedately.com,REJECT
 DOMAIN-SUFFIX,1.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,1.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,1.meanwhilelest.com,REJECT
@@ -348,6 +356,7 @@ DOMAIN-SUFFIX,1.peacefulmesh.com,REJECT
 DOMAIN-SUFFIX,1.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,1.pishrust.com,REJECT
 DOMAIN-SUFFIX,1.poorlylift.com,REJECT
+DOMAIN-SUFFIX,1.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,1.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,1.psstyakuponfast.com,REJECT
 DOMAIN-SUFFIX,1.quietlythough.com,REJECT
@@ -386,6 +395,7 @@ DOMAIN-SUFFIX,1.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,1.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,1.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,1.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,1.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,1.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,1.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,1.stg.flat.ackjoyouslyonto.com,REJECT
@@ -414,6 +424,7 @@ DOMAIN-SUFFIX,1.stg.meanwhilelest.com,REJECT
 DOMAIN-SUFFIX,1.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,1.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,1.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,1.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,1.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,1.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,1.stg.referwhen.com,REJECT
@@ -442,6 +453,7 @@ DOMAIN-SUFFIX,1.v.s.html-load.com,REJECT
 DOMAIN-SUFFIX,1.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,1.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,1.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,1.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,1.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,1.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,1.v.stg.jet.nicelymodulo.com,REJECT
@@ -502,6 +514,7 @@ DOMAIN-SUFFIX,2.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,2.drawbut.com,REJECT
 DOMAIN-SUFFIX,2.duhquietly.com,REJECT
 DOMAIN-SUFFIX,2.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,2.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,2.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,2.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,2.fb.stg.content-loader.com,REJECT
@@ -552,6 +565,7 @@ DOMAIN-SUFFIX,2.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,2.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,2.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,2.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,2.mashsedately.com,REJECT
 DOMAIN-SUFFIX,2.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,2.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,2.meanwhilelest.com,REJECT
@@ -566,6 +580,7 @@ DOMAIN-SUFFIX,2.pile.rampfat.com,REJECT
 DOMAIN-SUFFIX,2.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,2.pishrust.com,REJECT
 DOMAIN-SUFFIX,2.poorlylift.com,REJECT
+DOMAIN-SUFFIX,2.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,2.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,2.psstyakuponfast.com,REJECT
 DOMAIN-SUFFIX,2.quietlythough.com,REJECT
@@ -603,6 +618,7 @@ DOMAIN-SUFFIX,2.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,2.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,2.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,2.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,2.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,2.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,2.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,2.stg.flat.ackjoyouslyonto.com,REJECT
@@ -632,6 +648,7 @@ DOMAIN-SUFFIX,2.stg.noisilyinstantly.com,REJECT
 DOMAIN-SUFFIX,2.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,2.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,2.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,2.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,2.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,2.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,2.stg.referwhen.com,REJECT
@@ -660,6 +677,7 @@ DOMAIN-SUFFIX,2.v.s.html-load.com,REJECT
 DOMAIN-SUFFIX,2.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,2.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,2.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,2.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,2.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,2.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,2.v.stg.jet.nicelymodulo.com,REJECT
@@ -721,6 +739,7 @@ DOMAIN-SUFFIX,3.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,3.drawbut.com,REJECT
 DOMAIN-SUFFIX,3.duhquietly.com,REJECT
 DOMAIN-SUFFIX,3.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,3.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,3.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,3.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,3.fb.stg.content-loader.com,REJECT
@@ -772,6 +791,7 @@ DOMAIN-SUFFIX,3.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,3.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,3.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,3.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,3.mashsedately.com,REJECT
 DOMAIN-SUFFIX,3.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,3.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,3.meanwhilelest.com,REJECT
@@ -785,6 +805,7 @@ DOMAIN-SUFFIX,3.peacefulmesh.com,REJECT
 DOMAIN-SUFFIX,3.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,3.pishrust.com,REJECT
 DOMAIN-SUFFIX,3.poorlylift.com,REJECT
+DOMAIN-SUFFIX,3.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,3.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,3.psstyakuponfast.com,REJECT
 DOMAIN-SUFFIX,3.quietlythough.com,REJECT
@@ -825,6 +846,7 @@ DOMAIN-SUFFIX,3.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,3.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,3.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,3.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,3.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,3.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,3.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,3.stg.flat.ackjoyouslyonto.com,REJECT
@@ -854,6 +876,7 @@ DOMAIN-SUFFIX,3.stg.noisilyinstantly.com,REJECT
 DOMAIN-SUFFIX,3.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,3.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,3.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,3.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,3.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,3.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,3.stg.referwhen.com,REJECT
@@ -882,6 +905,7 @@ DOMAIN-SUFFIX,3.v.s.html-load.com,REJECT
 DOMAIN-SUFFIX,3.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,3.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,3.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,3.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,3.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,3.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,3.v.stg.jet.nicelymodulo.com,REJECT
@@ -947,6 +971,7 @@ DOMAIN-SUFFIX,4.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,4.drawbut.com,REJECT
 DOMAIN-SUFFIX,4.duhquietly.com,REJECT
 DOMAIN-SUFFIX,4.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,4.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,4.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,4.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,4.fb.stg.content-loader.com,REJECT
@@ -996,6 +1021,7 @@ DOMAIN-SUFFIX,4.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,4.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,4.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,4.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,4.mashsedately.com,REJECT
 DOMAIN-SUFFIX,4.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,4.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,4.meanwhilelest.com,REJECT
@@ -1008,6 +1034,7 @@ DOMAIN-SUFFIX,4.peacefulmesh.com,REJECT
 DOMAIN-SUFFIX,4.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,4.pishrust.com,REJECT
 DOMAIN-SUFFIX,4.poorlylift.com,REJECT
+DOMAIN-SUFFIX,4.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,4.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,4.psstyakuponfast.com,REJECT
 DOMAIN-SUFFIX,4.quietlythough.com,REJECT
@@ -1046,6 +1073,7 @@ DOMAIN-SUFFIX,4.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,4.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,4.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,4.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,4.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,4.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,4.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,4.stg.flat.ackjoyouslyonto.com,REJECT
@@ -1075,6 +1103,7 @@ DOMAIN-SUFFIX,4.stg.noisilyinstantly.com,REJECT
 DOMAIN-SUFFIX,4.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,4.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,4.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,4.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,4.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,4.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,4.stg.referwhen.com,REJECT
@@ -1103,6 +1132,7 @@ DOMAIN-SUFFIX,4.v.s.html-load.com,REJECT
 DOMAIN-SUFFIX,4.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,4.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,4.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,4.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,4.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,4.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,4.v.stg.jet.nicelymodulo.com,REJECT
@@ -1167,6 +1197,7 @@ DOMAIN-SUFFIX,5.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,5.drawbut.com,REJECT
 DOMAIN-SUFFIX,5.duhquietly.com,REJECT
 DOMAIN-SUFFIX,5.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,5.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,5.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,5.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,5.fb.stg.content-loader.com,REJECT
@@ -1218,6 +1249,7 @@ DOMAIN-SUFFIX,5.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,5.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,5.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,5.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,5.mashsedately.com,REJECT
 DOMAIN-SUFFIX,5.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,5.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,5.meanwhilelest.com,REJECT
@@ -1231,6 +1263,7 @@ DOMAIN-SUFFIX,5.peacefulmesh.com,REJECT
 DOMAIN-SUFFIX,5.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,5.pishrust.com,REJECT
 DOMAIN-SUFFIX,5.poorlylift.com,REJECT
+DOMAIN-SUFFIX,5.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,5.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,5.psstyakuponfast.com,REJECT
 DOMAIN-SUFFIX,5.quietlythough.com,REJECT
@@ -1271,6 +1304,7 @@ DOMAIN-SUFFIX,5.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,5.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,5.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,5.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,5.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,5.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,5.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,5.stg.flat.ackjoyouslyonto.com,REJECT
@@ -1299,6 +1333,7 @@ DOMAIN-SUFFIX,5.stg.meanwhilelest.com,REJECT
 DOMAIN-SUFFIX,5.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,5.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,5.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,5.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,5.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,5.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,5.stg.referwhen.com,REJECT
@@ -1326,6 +1361,7 @@ DOMAIN-SUFFIX,5.v.s.html-load.com,REJECT
 DOMAIN-SUFFIX,5.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,5.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,5.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,5.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,5.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,5.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,5.v.stg.jet.nicelymodulo.com,REJECT
@@ -1385,6 +1421,7 @@ DOMAIN-SUFFIX,6.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,6.drawbut.com,REJECT
 DOMAIN-SUFFIX,6.duhquietly.com,REJECT
 DOMAIN-SUFFIX,6.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,6.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,6.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,6.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,6.fb.stg.content-loader.com,REJECT
@@ -1435,6 +1472,7 @@ DOMAIN-SUFFIX,6.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,6.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,6.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,6.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,6.mashsedately.com,REJECT
 DOMAIN-SUFFIX,6.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,6.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,6.meanwhilelest.com,REJECT
@@ -1448,6 +1486,7 @@ DOMAIN-SUFFIX,6.peacefulmesh.com,REJECT
 DOMAIN-SUFFIX,6.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,6.pishrust.com,REJECT
 DOMAIN-SUFFIX,6.poorlylift.com,REJECT
+DOMAIN-SUFFIX,6.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,6.psstentice.com,REJECT
 DOMAIN-SUFFIX,6.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,6.psstyakuponfast.com,REJECT
@@ -1486,6 +1525,7 @@ DOMAIN-SUFFIX,6.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,6.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,6.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,6.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,6.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,6.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,6.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,6.stg.flat.ackjoyouslyonto.com,REJECT
@@ -1515,6 +1555,7 @@ DOMAIN-SUFFIX,6.stg.noisilyinstantly.com,REJECT
 DOMAIN-SUFFIX,6.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,6.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,6.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,6.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,6.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,6.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,6.stg.referwhen.com,REJECT
@@ -1542,6 +1583,7 @@ DOMAIN-SUFFIX,6.v.html-load.com,REJECT
 DOMAIN-SUFFIX,6.v.s.html-load.com,REJECT
 DOMAIN-SUFFIX,6.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,6.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,6.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,6.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,6.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,6.v.stg.jet.nicelymodulo.com,REJECT
@@ -1601,6 +1643,7 @@ DOMAIN-SUFFIX,7.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,7.drawbut.com,REJECT
 DOMAIN-SUFFIX,7.duhquietly.com,REJECT
 DOMAIN-SUFFIX,7.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,7.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,7.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,7.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,7.fb.stg.content-loader.com,REJECT
@@ -1652,6 +1695,7 @@ DOMAIN-SUFFIX,7.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,7.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,7.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,7.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,7.mashsedately.com,REJECT
 DOMAIN-SUFFIX,7.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,7.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,7.meanwhilelest.com,REJECT
@@ -1665,6 +1709,7 @@ DOMAIN-SUFFIX,7.peacefulmesh.com,REJECT
 DOMAIN-SUFFIX,7.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,7.pishrust.com,REJECT
 DOMAIN-SUFFIX,7.poorlylift.com,REJECT
+DOMAIN-SUFFIX,7.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,7.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,7.psstyakuponfast.com,REJECT
 DOMAIN-SUFFIX,7.quietlythough.com,REJECT
@@ -1704,6 +1749,7 @@ DOMAIN-SUFFIX,7.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,7.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,7.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,7.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,7.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,7.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,7.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,7.stg.flat.ackjoyouslyonto.com,REJECT
@@ -1733,6 +1779,7 @@ DOMAIN-SUFFIX,7.stg.noisilyinstantly.com,REJECT
 DOMAIN-SUFFIX,7.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,7.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,7.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,7.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,7.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,7.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,7.stg.referwhen.com,REJECT
@@ -1759,9 +1806,9 @@ DOMAIN-SUFFIX,7.unfreezehuge.com,REJECT
 DOMAIN-SUFFIX,7.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,7.v.html-load.com,REJECT
 DOMAIN-SUFFIX,7.v.s.html-load.com,REJECT
-DOMAIN-SUFFIX,7.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,7.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,7.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,7.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,7.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,7.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,7.v.stg.jet.nicelymodulo.com,REJECT
@@ -1822,6 +1869,7 @@ DOMAIN-SUFFIX,8.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,8.drawbut.com,REJECT
 DOMAIN-SUFFIX,8.duhquietly.com,REJECT
 DOMAIN-SUFFIX,8.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,8.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,8.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,8.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,8.fb.stg.content-loader.com,REJECT
@@ -1871,6 +1919,7 @@ DOMAIN-SUFFIX,8.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,8.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,8.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,8.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,8.mashsedately.com,REJECT
 DOMAIN-SUFFIX,8.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,8.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,8.meanwhilelest.com,REJECT
@@ -1885,6 +1934,7 @@ DOMAIN-SUFFIX,8.pile.rampfat.com,REJECT
 DOMAIN-SUFFIX,8.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,8.pishrust.com,REJECT
 DOMAIN-SUFFIX,8.poorlylift.com,REJECT
+DOMAIN-SUFFIX,8.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,8.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,8.psstyakuponfast.com,REJECT
 DOMAIN-SUFFIX,8.quietlythough.com,REJECT
@@ -1924,6 +1974,7 @@ DOMAIN-SUFFIX,8.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,8.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,8.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,8.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,8.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,8.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,8.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,8.stg.flat.ackjoyouslyonto.com,REJECT
@@ -1952,6 +2003,7 @@ DOMAIN-SUFFIX,8.stg.meanwhilelest.com,REJECT
 DOMAIN-SUFFIX,8.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,8.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,8.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,8.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,8.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,8.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,8.stg.referwhen.com,REJECT
@@ -1979,6 +2031,7 @@ DOMAIN-SUFFIX,8.v.s.html-load.com,REJECT
 DOMAIN-SUFFIX,8.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,8.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,8.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,8.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,8.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,8.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,8.v.stg.jet.nicelymodulo.com,REJECT
@@ -2039,6 +2092,7 @@ DOMAIN-SUFFIX,9.disk.withreadily.com,REJECT
 DOMAIN-SUFFIX,9.drawbut.com,REJECT
 DOMAIN-SUFFIX,9.duhquietly.com,REJECT
 DOMAIN-SUFFIX,9.duhrawhide.com,REJECT
+DOMAIN-SUFFIX,9.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,9.fb.content-loader.com,REJECT
 DOMAIN-SUFFIX,9.fb.html-load.com,REJECT
 DOMAIN-SUFFIX,9.fb.stg.content-loader.com,REJECT
@@ -2088,6 +2142,7 @@ DOMAIN-SUFFIX,9.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,9.lox.legalendowmad.com,REJECT
 DOMAIN-SUFFIX,9.luck.indeedgrass.com,REJECT
 DOMAIN-SUFFIX,9.lyre.sinceaware.com,REJECT
+DOMAIN-SUFFIX,9.mashsedately.com,REJECT
 DOMAIN-SUFFIX,9.meal.embossfor.com,REJECT
 DOMAIN-SUFFIX,9.meal.hmphpeppery.com,REJECT
 DOMAIN-SUFFIX,9.meanwhilelest.com,REJECT
@@ -2101,6 +2156,7 @@ DOMAIN-SUFFIX,9.peacefulmesh.com,REJECT
 DOMAIN-SUFFIX,9.pine.swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,9.pishrust.com,REJECT
 DOMAIN-SUFFIX,9.poorlylift.com,REJECT
+DOMAIN-SUFFIX,9.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,9.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,9.psstyakuponfast.com,REJECT
 DOMAIN-SUFFIX,9.quietlythough.com,REJECT
@@ -2139,6 +2195,7 @@ DOMAIN-SUFFIX,9.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,9.stg.deck.amidstdeploy.com,REJECT
 DOMAIN-SUFFIX,9.stg.deployfondly.com,REJECT
 DOMAIN-SUFFIX,9.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,9.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,9.stg.edge.yahoojagged.com,REJECT
 DOMAIN-SUFFIX,9.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,9.stg.flat.ackjoyouslyonto.com,REJECT
@@ -2168,6 +2225,7 @@ DOMAIN-SUFFIX,9.stg.noisilyinstantly.com,REJECT
 DOMAIN-SUFFIX,9.stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,9.stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,9.stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,9.stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,9.stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,9.stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,9.stg.referwhen.com,REJECT
@@ -2194,6 +2252,7 @@ DOMAIN-SUFFIX,9.v.s.html-load.com,REJECT
 DOMAIN-SUFFIX,9.v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,9.v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,9.v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,9.v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,9.v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,9.v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,9.v.stg.jet.nicelymodulo.com,REJECT
@@ -2382,6 +2441,7 @@ DOMAIN-SUFFIX,evenpatroller.com,REJECT
 DOMAIN-SUFFIX,evenwaft.com,REJECT
 DOMAIN-SUFFIX,evenyippee.com,REJECT
 DOMAIN-SUFFIX,evenyumbroadlywitharmoire.com,REJECT
+DOMAIN-SUFFIX,exceptlone.com,REJECT
 DOMAIN-SUFFIX,expertminus.com,REJECT
 DOMAIN-SUFFIX,eyelinerfrom.com,REJECT
 DOMAIN-SUFFIX,fb.content-loader.com,REJECT
@@ -2429,6 +2489,7 @@ DOMAIN-SUFFIX,go.andwonderful.com,REJECT
 DOMAIN-SUFFIX,goat.madoverpricey.com,REJECT
 DOMAIN-SUFFIX,goat.unlesssecret.com,REJECT
 DOMAIN-SUFFIX,goshoverfeed.com,REJECT
+DOMAIN-SUFFIX,goshsmarten.com,REJECT
 DOMAIN-SUFFIX,gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,greatlyamid.com,REJECT
@@ -2453,6 +2514,7 @@ DOMAIN-SUFFIX,hose.equallyneedily.com,REJECT
 DOMAIN-SUFFIX,host-override.ad-shield.dev,REJECT
 DOMAIN-SUFFIX,housebutsoon.com,REJECT
 DOMAIN-SUFFIX,howduhtable.com,REJECT
+DOMAIN-SUFFIX,howphooey.com,REJECT
 DOMAIN-SUFFIX,html-load.cc,REJECT
 DOMAIN-SUFFIX,html-load.com,REJECT
 DOMAIN-SUFFIX,huntforenenst.com,REJECT
@@ -2596,7 +2658,6 @@ DOMAIN-SUFFIX,pfftbare.com,REJECT
 DOMAIN-SUFFIX,phewcutlet.com,REJECT
 DOMAIN-SUFFIX,phewsugary.com,REJECT
 DOMAIN-SUFFIX,pick.divinepiglet.com,REJECT
-DOMAIN-SUFFIX,pick.palateonce.com,REJECT
 DOMAIN-SUFFIX,pile.amidsolidly.com,REJECT
 DOMAIN-SUFFIX,pile.rampfat.com,REJECT
 DOMAIN-SUFFIX,pileevery.com,REJECT
@@ -2741,6 +2802,7 @@ DOMAIN-SUFFIX,stg.nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,stg.pick.divinepiglet.com,REJECT
 DOMAIN-SUFFIX,stg.pick.palateonce.com,REJECT
 DOMAIN-SUFFIX,stg.pile.amidsolidly.com,REJECT
+DOMAIN-SUFFIX,stg.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,stg.pssthumidity.com,REJECT
 DOMAIN-SUFFIX,stg.quietlythough.com,REJECT
 DOMAIN-SUFFIX,stg.referwhen.com,REJECT
@@ -2788,6 +2850,7 @@ DOMAIN-SUFFIX,translationwell.com,REJECT
 DOMAIN-SUFFIX,tribegadzooks.com,REJECT
 DOMAIN-SUFFIX,trivialblowgun.com,REJECT
 DOMAIN-SUFFIX,tuba.stiffpast.com,REJECT
+DOMAIN-SUFFIX,tuba.worstloftily.com,REJECT
 DOMAIN-SUFFIX,tutjuggernaut.com,REJECT
 DOMAIN-SUFFIX,ughjubilantly.com,REJECT
 DOMAIN-SUFFIX,ughmouldhusky.com,REJECT
@@ -2810,6 +2873,7 @@ DOMAIN-SUFFIX,v.stg.bid.pleasedmad.com,REJECT
 DOMAIN-SUFFIX,v.stg.coin.thanabaft.com,REJECT
 DOMAIN-SUFFIX,v.stg.curl.springinure.com,REJECT
 DOMAIN-SUFFIX,v.stg.desk.unlesscool.com,REJECT
+DOMAIN-SUFFIX,v.stg.edge.cuddlybeside.com,REJECT
 DOMAIN-SUFFIX,v.stg.html-load.com,REJECT
 DOMAIN-SUFFIX,v.stg.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,v.stg.jet.nicelymodulo.com,REJECT
@@ -2950,6 +3014,7 @@ DOMAIN-SUFFIX,www.perlikewiseamid.com,REJECT
 DOMAIN-SUFFIX,www.peryuck.com,REJECT
 DOMAIN-SUFFIX,www.phewsugary.com,REJECT
 DOMAIN-SUFFIX,www.pilotuntil.com,REJECT
+DOMAIN-SUFFIX,www.poppyrimpace.com,REJECT
 DOMAIN-SUFFIX,www.providedwell.com,REJECT
 DOMAIN-SUFFIX,www.psstentice.com,REJECT
 DOMAIN-SUFFIX,www.psstyakuponfast.com,REJECT
