@@ -11,14 +11,11 @@ DOMAIN-SUFFIX,ads.instagramstoryviewer.org,REJECT
 DOMAIN-SUFFIX,an.facebook.com,REJECT
 DOMAIN-SUFFIX,analytics.facebook.com,REJECT
 DOMAIN-SUFFIX,analytics.meta-fusion.com,REJECT
-DOMAIN-SUFFIX,analytics.meta-one.de,REJECT
-DOMAIN-SUFFIX,analytics.meta-video.com,REJECT
 DOMAIN-SUFFIX,badge.facebook.com,REJECT
 DOMAIN-SUFFIX,badges.instagram.com,REJECT
 DOMAIN-SUFFIX,events.om-meta.com,REJECT
 DOMAIN-SUFFIX,pixel.facebook.com,REJECT
 DOMAIN-SUFFIX,tr.facebook.com,REJECT
-DOMAIN-SUFFIX,tracking.rest.meta-esp.com,REJECT
 
 [Rewrite]
 # Remove objects marked as ads/sponsored/promoted from supported JSON responses.
