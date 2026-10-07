@@ -262,7 +262,6 @@ DOMAIN-SUFFIX,0.yahoolock.com,REJECT
 DOMAIN-SUFFIX,0.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,0.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,0.yowzagently.com,REJECT
-DOMAIN-SUFFIX,0.zowiejump.com,REJECT
 DOMAIN-SUFFIX,07c225f3.online,REJECT
 DOMAIN-SUFFIX,1.07c225f3.online,REJECT
 DOMAIN-SUFFIX,1.abaftwetly.com,REJECT
@@ -496,7 +495,6 @@ DOMAIN-SUFFIX,1.yahoo-homepage.html-load.com,REJECT
 DOMAIN-SUFFIX,1.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,1.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,1.yowzagently.com,REJECT
-DOMAIN-SUFFIX,1.zowiejump.com,REJECT
 DOMAIN-SUFFIX,19706903.xyz,REJECT
 DOMAIN-SUFFIX,2.07c225f3.online,REJECT
 DOMAIN-SUFFIX,2.abaftwetly.com,REJECT
@@ -733,7 +731,6 @@ DOMAIN-SUFFIX,2.yahoolock.com,REJECT
 DOMAIN-SUFFIX,2.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,2.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,2.yowzagently.com,REJECT
-DOMAIN-SUFFIX,2.zowiejump.com,REJECT
 DOMAIN-SUFFIX,28269.erionoxcintene.com,REJECT
 DOMAIN-SUFFIX,28768.erionoxcintene.com,REJECT
 DOMAIN-SUFFIX,3.07c225f3.online,REJECT
@@ -975,7 +972,6 @@ DOMAIN-SUFFIX,3.yahoolock.com,REJECT
 DOMAIN-SUFFIX,3.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,3.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,3.yowzagently.com,REJECT
-DOMAIN-SUFFIX,3.zowiejump.com,REJECT
 DOMAIN-SUFFIX,31409.suproderistrai.com,REJECT
 DOMAIN-SUFFIX,34702.erionoxcintene.com,REJECT
 DOMAIN-SUFFIX,35429.suproderistrai.com,REJECT
@@ -1214,7 +1210,6 @@ DOMAIN-SUFFIX,4.yahoolock.com,REJECT
 DOMAIN-SUFFIX,4.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,4.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,4.yowzagently.com,REJECT
-DOMAIN-SUFFIX,4.zowiejump.com,REJECT
 DOMAIN-SUFFIX,47235645.xyz,REJECT
 DOMAIN-SUFFIX,4863232c.xyz,REJECT
 DOMAIN-SUFFIX,5.07c225f3.online,REJECT
@@ -1454,7 +1449,6 @@ DOMAIN-SUFFIX,5.yahoo-homepage.html-load.com,REJECT
 DOMAIN-SUFFIX,5.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,5.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,5.yowzagently.com,REJECT
-DOMAIN-SUFFIX,5.zowiejump.com,REJECT
 DOMAIN-SUFFIX,58686728.xyz,REJECT
 DOMAIN-SUFFIX,6.07c225f3.online,REJECT
 DOMAIN-SUFFIX,6.abaftwetly.com,REJECT
@@ -1688,7 +1682,6 @@ DOMAIN-SUFFIX,6.yahoolock.com,REJECT
 DOMAIN-SUFFIX,6.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,6.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,6.yowzagently.com,REJECT
-DOMAIN-SUFFIX,6.zowiejump.com,REJECT
 DOMAIN-SUFFIX,64786087.xyz,REJECT
 DOMAIN-SUFFIX,65035033.xyz,REJECT
 DOMAIN-SUFFIX,7.07c225f3.online,REJECT
@@ -1925,7 +1918,6 @@ DOMAIN-SUFFIX,7.yahoolock.com,REJECT
 DOMAIN-SUFFIX,7.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,7.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,7.yowzagently.com,REJECT
-DOMAIN-SUFFIX,7.zowiejump.com,REJECT
 DOMAIN-SUFFIX,78587924.xyz,REJECT
 DOMAIN-SUFFIX,8.07c225f3.online,REJECT
 DOMAIN-SUFFIX,8.abaftwetly.com,REJECT
@@ -2159,7 +2151,6 @@ DOMAIN-SUFFIX,8.yahoolock.com,REJECT
 DOMAIN-SUFFIX,8.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,8.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,8.yowzagently.com,REJECT
-DOMAIN-SUFFIX,8.zowiejump.com,REJECT
 DOMAIN-SUFFIX,84302764.xyz,REJECT
 DOMAIN-SUFFIX,9.07c225f3.online,REJECT
 DOMAIN-SUFFIX,9.abaftwetly.com,REJECT
@@ -2389,13 +2380,13 @@ DOMAIN-SUFFIX,9.yahoolock.com,REJECT
 DOMAIN-SUFFIX,9.yak.divertnow.com,REJECT
 DOMAIN-SUFFIX,9.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,9.yowzagently.com,REJECT
-DOMAIN-SUFFIX,9.zowiejump.com,REJECT
 DOMAIN-SUFFIX,abaftscaly.com,REJECT
 DOMAIN-SUFFIX,abaftwetly.com,REJECT
 DOMAIN-SUFFIX,abovesave.com,REJECT
 DOMAIN-SUFFIX,absentwhack.com,REJECT
 DOMAIN-SUFFIX,ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,ackprovided.com,REJECT
+DOMAIN-SUFFIX,ackvainly.com,REJECT
 DOMAIN-SUFFIX,ackzany.com,REJECT
 DOMAIN-SUFFIX,ad-shield.cc,REJECT
 DOMAIN-SUFFIX,ad-shield.io,REJECT
@@ -2611,6 +2602,7 @@ DOMAIN-SUFFIX,goat.madoverpricey.com,REJECT
 DOMAIN-SUFFIX,goat.unlesssecret.com,REJECT
 DOMAIN-SUFFIX,goshoverfeed.com,REJECT
 DOMAIN-SUFFIX,goshsmarten.com,REJECT
+DOMAIN-SUFFIX,goshupward.com,REJECT
 DOMAIN-SUFFIX,gray.doingsupposing.com,REJECT
 DOMAIN-SUFFIX,gray.unlikebuck.com,REJECT
 DOMAIN-SUFFIX,greatlyamid.com,REJECT
@@ -2641,8 +2633,11 @@ DOMAIN-SUFFIX,html-load.cc,REJECT
 DOMAIN-SUFFIX,html-load.com,REJECT
 DOMAIN-SUFFIX,huntforenenst.com,REJECT
 DOMAIN-SUFFIX,hurtfulonly.com,REJECT
+DOMAIN-SUFFIX,huzzahfor.com,REJECT
 DOMAIN-SUFFIX,huzzahwhatintently.com,REJECT
 DOMAIN-SUFFIX,hydrolyseouch.com,REJECT
+DOMAIN-SUFFIX,hypehuddle.com,REJECT
+DOMAIN-SUFFIX,ickaside.com,REJECT
 DOMAIN-SUFFIX,ickfinallyonly.com,REJECT
 DOMAIN-SUFFIX,ickremand.com,REJECT
 DOMAIN-SUFFIX,ill-fatedodd.com,REJECT
@@ -2756,6 +2751,7 @@ DOMAIN-SUFFIX,noranglehow.com,REJECT
 DOMAIN-SUFFIX,norexceptdrug.com,REJECT
 DOMAIN-SUFFIX,norsinceexactlyamongplait.com,REJECT
 DOMAIN-SUFFIX,nowmodulo.com,REJECT
+DOMAIN-SUFFIX,nowrampepic.com,REJECT
 DOMAIN-SUFFIX,nudgesplityowza.com,REJECT
 DOMAIN-SUFFIX,nun.warmlyanti.com,REJECT
 DOMAIN-SUFFIX,offendalligatorcoaleven.com,REJECT
@@ -2830,6 +2826,7 @@ DOMAIN-SUFFIX,sand.corksadly.com,REJECT
 DOMAIN-SUFFIX,sansmadly.com,REJECT
 DOMAIN-SUFFIX,sanssnow.com,REJECT
 DOMAIN-SUFFIX,sanstidy.com,REJECT
+DOMAIN-SUFFIX,sansyettusk.com,REJECT
 DOMAIN-SUFFIX,satephooeynab.com,REJECT
 DOMAIN-SUFFIX,saw.amidsttruly.com,REJECT
 DOMAIN-SUFFIX,saw.anenstdecodenear.com,REJECT
@@ -2980,6 +2977,7 @@ DOMAIN-SUFFIX,timestorn.com,REJECT
 DOMAIN-SUFFIX,tomb.trivialblowgun.com,REJECT
 DOMAIN-SUFFIX,tool.assuredwhoa.com,REJECT
 DOMAIN-SUFFIX,tool.pilotuntil.com,REJECT
+DOMAIN-SUFFIX,toovaliantly.com,REJECT
 DOMAIN-SUFFIX,tousleoutbid.com,REJECT
 DOMAIN-SUFFIX,translationwell.com,REJECT
 DOMAIN-SUFFIX,tribegadzooks.com,REJECT
@@ -3209,7 +3207,6 @@ DOMAIN-SUFFIX,www.yetyippee.com,REJECT
 DOMAIN-SUFFIX,www.yippeewhenever.com,REJECT
 DOMAIN-SUFFIX,www.yowzabrr.com,REJECT
 DOMAIN-SUFFIX,www.yumhusk.com,REJECT
-DOMAIN-SUFFIX,www.zowiejump.com,REJECT
 DOMAIN-SUFFIX,yahoo-homepage.html-load.com,REJECT
 DOMAIN-SUFFIX,yahoojagged.com,REJECT
 DOMAIN-SUFFIX,yahoolock.com,REJECT
