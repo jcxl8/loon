@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,0.flat.hmphstained.com,REJECT
 DOMAIN-SUFFIX,0.flat.providedwell.com,REJECT
 DOMAIN-SUFFIX,0.flat.puzzledrally.com,REJECT
 DOMAIN-SUFFIX,0.flubobble.com,REJECT
+DOMAIN-SUFFIX,0.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,0.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,0.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,0.fork.misguidedfast.com,REJECT
@@ -178,7 +179,6 @@ DOMAIN-SUFFIX,0.referwhen.com,REJECT
 DOMAIN-SUFFIX,0.rewardingfill.com,REJECT
 DOMAIN-SUFFIX,0.role.evenwaft.com,REJECT
 DOMAIN-SUFFIX,0.role.nicelyfrom.com,REJECT
-DOMAIN-SUFFIX,0.rule.eekcelebrate.com,REJECT
 DOMAIN-SUFFIX,0.rule.evenyippee.com,REJECT
 DOMAIN-SUFFIX,0.rust.roundoddeven.com,REJECT
 DOMAIN-SUFFIX,0.rust.videovein.com,REJECT
@@ -194,6 +194,7 @@ DOMAIN-SUFFIX,0.slipsolidly.com,REJECT
 DOMAIN-SUFFIX,0.smog.smugpsstplus.com,REJECT
 DOMAIN-SUFFIX,0.socksince.com,REJECT
 DOMAIN-SUFFIX,0.soup.boblovable.com,REJECT
+DOMAIN-SUFFIX,0.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,0.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,0.step.whoeverhow.com,REJECT
 DOMAIN-SUFFIX,0.stg.abaftwetly.com,REJECT
@@ -215,7 +216,6 @@ DOMAIN-SUFFIX,0.stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,0.stg.bob.geezlazily.com,REJECT
 DOMAIN-SUFFIX,0.stg.bog.formafore.com,REJECT
 DOMAIN-SUFFIX,0.stg.bog.sansmadly.com,REJECT
-DOMAIN-SUFFIX,0.stg.bowlingpish.com,REJECT
 DOMAIN-SUFFIX,0.stg.brochureclear.com,REJECT
 DOMAIN-SUFFIX,0.stg.brrindeed.com,REJECT
 DOMAIN-SUFFIX,0.stg.butcornyyet.com,REJECT
@@ -252,6 +252,7 @@ DOMAIN-SUFFIX,0.stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,0.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,0.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,0.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,0.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,0.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,0.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,0.stg.fuel.geezyet.com,REJECT
@@ -311,8 +312,10 @@ DOMAIN-SUFFIX,0.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,0.stg.silk.nightlifestrait.com,REJECT
 DOMAIN-SUFFIX,0.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,0.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,0.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,0.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,0.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,0.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,0.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,0.stg.taro.secretnot.com,REJECT
 DOMAIN-SUFFIX,0.stg.taro.smugnow.com,REJECT
@@ -338,6 +341,7 @@ DOMAIN-SUFFIX,0.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,0.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,0.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,0.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,0.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,0.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,0.taro.amongstmask.com,REJECT
 DOMAIN-SUFFIX,0.taro.sansyettusk.com,REJECT
@@ -445,6 +449,7 @@ DOMAIN-SUFFIX,1.findingmid.com,REJECT
 DOMAIN-SUFFIX,1.fitlivelywhup.com,REJECT
 DOMAIN-SUFFIX,1.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,1.flubobble.com,REJECT
+DOMAIN-SUFFIX,1.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,1.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,1.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,1.fork.misguidedfast.com,REJECT
@@ -589,6 +594,7 @@ DOMAIN-SUFFIX,1.stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,1.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,1.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,1.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,1.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,1.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,1.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,1.stg.fuel.geezyet.com,REJECT
@@ -646,8 +652,10 @@ DOMAIN-SUFFIX,1.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,1.stg.silk.nightlifestrait.com,REJECT
 DOMAIN-SUFFIX,1.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,1.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,1.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,1.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,1.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,1.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,1.stg.taro.amongstmask.com,REJECT
 DOMAIN-SUFFIX,1.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,1.stg.taro.secretnot.com,REJECT
@@ -671,6 +679,7 @@ DOMAIN-SUFFIX,1.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,1.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,1.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,1.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,1.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,1.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,1.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,1.taro.secretnot.com,REJECT
@@ -779,6 +788,7 @@ DOMAIN-SUFFIX,2.findingmid.com,REJECT
 DOMAIN-SUFFIX,2.fitlivelywhup.com,REJECT
 DOMAIN-SUFFIX,2.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,2.flubobble.com,REJECT
+DOMAIN-SUFFIX,2.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,2.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,2.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,2.fork.misguidedfast.com,REJECT
@@ -922,6 +932,7 @@ DOMAIN-SUFFIX,2.stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,2.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,2.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,2.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,2.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,2.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,2.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,2.stg.fuel.geezyet.com,REJECT
@@ -979,8 +990,10 @@ DOMAIN-SUFFIX,2.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,2.stg.silk.nightlifestrait.com,REJECT
 DOMAIN-SUFFIX,2.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,2.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,2.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,2.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,2.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,2.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,2.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,2.stg.taro.secretnot.com,REJECT
 DOMAIN-SUFFIX,2.stg.taro.smugnow.com,REJECT
@@ -1001,6 +1014,7 @@ DOMAIN-SUFFIX,2.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,2.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,2.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,2.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,2.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,2.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,2.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,2.tomb.harmfulnow.com,REJECT
@@ -1110,6 +1124,7 @@ DOMAIN-SUFFIX,3.fitlivelywhup.com,REJECT
 DOMAIN-SUFFIX,3.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,3.flat.providedwell.com,REJECT
 DOMAIN-SUFFIX,3.flubobble.com,REJECT
+DOMAIN-SUFFIX,3.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,3.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,3.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,3.fork.misguidedfast.com,REJECT
@@ -1258,6 +1273,7 @@ DOMAIN-SUFFIX,3.stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,3.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,3.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,3.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,3.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,3.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,3.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,3.stg.fuel.geezyet.com,REJECT
@@ -1315,8 +1331,10 @@ DOMAIN-SUFFIX,3.stg.saw.windyquaintly.com,REJECT
 DOMAIN-SUFFIX,3.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,3.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,3.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,3.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,3.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,3.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,3.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,3.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,3.stg.taro.secretnot.com,REJECT
 DOMAIN-SUFFIX,3.stg.taro.smugnow.com,REJECT
@@ -1338,6 +1356,7 @@ DOMAIN-SUFFIX,3.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,3.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,3.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,3.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,3.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,3.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,3.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,3.taro.secretnot.com,REJECT
@@ -1452,6 +1471,7 @@ DOMAIN-SUFFIX,4.findingmid.com,REJECT
 DOMAIN-SUFFIX,4.fitlivelywhup.com,REJECT
 DOMAIN-SUFFIX,4.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,4.flubobble.com,REJECT
+DOMAIN-SUFFIX,4.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,4.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,4.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,4.fork.misguidedfast.com,REJECT
@@ -1591,6 +1611,7 @@ DOMAIN-SUFFIX,4.stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,4.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,4.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,4.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,4.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,4.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,4.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,4.stg.fuel.geezyet.com,REJECT
@@ -1649,8 +1670,10 @@ DOMAIN-SUFFIX,4.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,4.stg.silk.nightlifestrait.com,REJECT
 DOMAIN-SUFFIX,4.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,4.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,4.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,4.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,4.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,4.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,4.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,4.stg.taro.secretnot.com,REJECT
 DOMAIN-SUFFIX,4.stg.taro.smugnow.com,REJECT
@@ -1672,6 +1695,7 @@ DOMAIN-SUFFIX,4.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,4.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,4.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,4.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,4.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,4.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,4.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,4.tomb.harmfulnow.com,REJECT
@@ -1783,6 +1807,7 @@ DOMAIN-SUFFIX,5.fitlivelywhup.com,REJECT
 DOMAIN-SUFFIX,5.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,5.flat.providedwell.com,REJECT
 DOMAIN-SUFFIX,5.flubobble.com,REJECT
+DOMAIN-SUFFIX,5.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,5.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,5.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,5.fork.misguidedfast.com,REJECT
@@ -1927,6 +1952,7 @@ DOMAIN-SUFFIX,5.stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,5.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,5.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,5.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,5.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,5.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,5.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,5.stg.fuel.geezyet.com,REJECT
@@ -1983,8 +2009,10 @@ DOMAIN-SUFFIX,5.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,5.stg.silk.nightlifestrait.com,REJECT
 DOMAIN-SUFFIX,5.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,5.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,5.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,5.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,5.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,5.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,5.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,5.stg.taro.secretnot.com,REJECT
 DOMAIN-SUFFIX,5.stg.taro.smugnow.com,REJECT
@@ -2005,6 +2033,7 @@ DOMAIN-SUFFIX,5.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,5.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,5.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,5.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,5.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,5.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,5.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,5.tomb.harmfulnow.com,REJECT
@@ -2112,6 +2141,7 @@ DOMAIN-SUFFIX,6.fitlivelywhup.com,REJECT
 DOMAIN-SUFFIX,6.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,6.flat.providedwell.com,REJECT
 DOMAIN-SUFFIX,6.flubobble.com,REJECT
+DOMAIN-SUFFIX,6.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,6.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,6.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,6.fork.misguidedfast.com,REJECT
@@ -2138,6 +2168,7 @@ DOMAIN-SUFFIX,6.ill-fatedodd.com,REJECT
 DOMAIN-SUFFIX,6.jazz.abovesave.com,REJECT
 DOMAIN-SUFFIX,6.jet.nicelymodulo.com,REJECT
 DOMAIN-SUFFIX,6.joviallysafely.com,REJECT
+DOMAIN-SUFFIX,6.kick.merrilyoval.com,REJECT
 DOMAIN-SUFFIX,6.kick.quaigloo.com,REJECT
 DOMAIN-SUFFIX,6.kit.colourpike.com,REJECT
 DOMAIN-SUFFIX,6.lay.unselfishugh.com,REJECT
@@ -2248,6 +2279,7 @@ DOMAIN-SUFFIX,6.stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,6.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,6.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,6.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,6.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,6.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,6.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,6.stg.fuel.geezyet.com,REJECT
@@ -2275,7 +2307,6 @@ DOMAIN-SUFFIX,6.stg.kit.colourpike.com,REJECT
 DOMAIN-SUFFIX,6.stg.lace.prettywhy.com,REJECT
 DOMAIN-SUFFIX,6.stg.lace.zowieamid.com,REJECT
 DOMAIN-SUFFIX,6.stg.lava.mmmcatalyst.com,REJECT
-DOMAIN-SUFFIX,6.stg.lid.loftilywhup.com,REJECT
 DOMAIN-SUFFIX,6.stg.lieu.geezduh.com,REJECT
 DOMAIN-SUFFIX,6.stg.loaf.roundvast.com,REJECT
 DOMAIN-SUFFIX,6.stg.lox.legalendowmad.com,REJECT
@@ -2306,8 +2337,10 @@ DOMAIN-SUFFIX,6.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,6.stg.silk.nightlifestrait.com,REJECT
 DOMAIN-SUFFIX,6.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,6.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,6.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,6.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,6.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,6.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,6.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,6.stg.taro.secretnot.com,REJECT
 DOMAIN-SUFFIX,6.stg.taro.smugnow.com,REJECT
@@ -2328,6 +2361,7 @@ DOMAIN-SUFFIX,6.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,6.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,6.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,6.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,6.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,6.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,6.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,6.tomb.harmfulnow.com,REJECT
@@ -2432,6 +2466,7 @@ DOMAIN-SUFFIX,7.findingmid.com,REJECT
 DOMAIN-SUFFIX,7.fitlivelywhup.com,REJECT
 DOMAIN-SUFFIX,7.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,7.flubobble.com,REJECT
+DOMAIN-SUFFIX,7.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,7.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,7.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,7.fork.misguidedfast.com,REJECT
@@ -2577,6 +2612,7 @@ DOMAIN-SUFFIX,7.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,7.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,7.stg.flat.hmphstained.com,REJECT
 DOMAIN-SUFFIX,7.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,7.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,7.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,7.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,7.stg.fuel.geezyet.com,REJECT
@@ -2635,8 +2671,10 @@ DOMAIN-SUFFIX,7.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,7.stg.silk.nightlifestrait.com,REJECT
 DOMAIN-SUFFIX,7.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,7.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,7.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,7.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,7.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,7.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,7.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,7.stg.taro.secretnot.com,REJECT
 DOMAIN-SUFFIX,7.stg.taro.smugnow.com,REJECT
@@ -2659,6 +2697,7 @@ DOMAIN-SUFFIX,7.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,7.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,7.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,7.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,7.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,7.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,7.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,7.taro.secretnot.com,REJECT
@@ -2760,6 +2799,7 @@ DOMAIN-SUFFIX,8.findingmid.com,REJECT
 DOMAIN-SUFFIX,8.fitlivelywhup.com,REJECT
 DOMAIN-SUFFIX,8.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,8.flubobble.com,REJECT
+DOMAIN-SUFFIX,8.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,8.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,8.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,8.fork.misguidedfast.com,REJECT
@@ -2901,6 +2941,7 @@ DOMAIN-SUFFIX,8.stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,8.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,8.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,8.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,8.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,8.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,8.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,8.stg.fuel.geezyet.com,REJECT
@@ -2957,8 +2998,10 @@ DOMAIN-SUFFIX,8.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,8.stg.silk.nightlifestrait.com,REJECT
 DOMAIN-SUFFIX,8.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,8.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,8.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,8.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,8.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,8.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,8.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,8.stg.taro.secretnot.com,REJECT
 DOMAIN-SUFFIX,8.stg.taro.smugnow.com,REJECT
@@ -2979,6 +3022,7 @@ DOMAIN-SUFFIX,8.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,8.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,8.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,8.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,8.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,8.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,8.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,8.tomb.harmfulnow.com,REJECT
@@ -3085,6 +3129,7 @@ DOMAIN-SUFFIX,9.findingmid.com,REJECT
 DOMAIN-SUFFIX,9.fitlivelywhup.com,REJECT
 DOMAIN-SUFFIX,9.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,9.flubobble.com,REJECT
+DOMAIN-SUFFIX,9.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,9.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,9.fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,9.fork.misguidedfast.com,REJECT
@@ -3226,6 +3271,7 @@ DOMAIN-SUFFIX,9.stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,9.stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,9.stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,9.stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,9.stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,9.stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,9.stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,9.stg.fuel.geezyet.com,REJECT
@@ -3283,8 +3329,10 @@ DOMAIN-SUFFIX,9.stg.saw.windyquaintly.com,REJECT
 DOMAIN-SUFFIX,9.stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,9.stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,9.stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,9.stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,9.stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,9.stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,9.stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,9.stg.taro.amongstmask.com,REJECT
 DOMAIN-SUFFIX,9.stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,9.stg.taro.secretnot.com,REJECT
@@ -3305,6 +3353,7 @@ DOMAIN-SUFFIX,9.stg.yin.hencebright.com,REJECT
 DOMAIN-SUFFIX,9.stg.yin.radiantack.com,REJECT
 DOMAIN-SUFFIX,9.swiftbecause.com,REJECT
 DOMAIN-SUFFIX,9.tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,9.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,9.tamealongpast.com,REJECT
 DOMAIN-SUFFIX,9.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,9.tilljoyfully.com,REJECT
@@ -3313,6 +3362,7 @@ DOMAIN-SUFFIX,9.uncoverpilot.com,REJECT
 DOMAIN-SUFFIX,9.unfreezehuge.com,REJECT
 DOMAIN-SUFFIX,9.unit.ughlongedge.com,REJECT
 DOMAIN-SUFFIX,9.upbeatbut.com,REJECT
+DOMAIN-SUFFIX,9.v.c.html-load.com,REJECT
 DOMAIN-SUFFIX,9.v.content-loader.com,REJECT
 DOMAIN-SUFFIX,9.v.html-load.com,REJECT
 DOMAIN-SUFFIX,9.v.s.html-load.com,REJECT
@@ -3409,6 +3459,7 @@ DOMAIN-SUFFIX,betweenbrr.com,REJECT
 DOMAIN-SUFFIX,beyondpastpsst.com,REJECT
 DOMAIN-SUFFIX,bid.palespork.com,REJECT
 DOMAIN-SUFFIX,bid.pleasedmad.com,REJECT
+DOMAIN-SUFFIX,binswim.com,REJECT
 DOMAIN-SUFFIX,blahorderly.com,REJECT
 DOMAIN-SUFFIX,blahwhoever.com,REJECT
 DOMAIN-SUFFIX,blindlyandpfft.com,REJECT
@@ -3448,6 +3499,7 @@ DOMAIN-SUFFIX,cap.tarrybelow.com,REJECT
 DOMAIN-SUFFIX,case.bahpartridge.com,REJECT
 DOMAIN-SUFFIX,case.tapiocawithout.com,REJECT
 DOMAIN-SUFFIX,cash.expertminus.com,REJECT
+DOMAIN-SUFFIX,cashcharming.com,REJECT
 DOMAIN-SUFFIX,certainlyyum.com,REJECT
 DOMAIN-SUFFIX,chainstayornerypsstgeez.com,REJECT
 DOMAIN-SUFFIX,changedadroitharassment.com,REJECT
@@ -3577,6 +3629,7 @@ DOMAIN-SUFFIX,flat.hmphstained.com,REJECT
 DOMAIN-SUFFIX,flat.providedwell.com,REJECT
 DOMAIN-SUFFIX,flat.puzzledrally.com,REJECT
 DOMAIN-SUFFIX,flubobble.com,REJECT
+DOMAIN-SUFFIX,fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,foldyahoolestorderly.com,REJECT
@@ -3584,6 +3637,7 @@ DOMAIN-SUFFIX,followingbehold.com,REJECT
 DOMAIN-SUFFIX,fooeyunsung.com,REJECT
 DOMAIN-SUFFIX,forbroken.com,REJECT
 DOMAIN-SUFFIX,fork.misguidedfast.com,REJECT
+DOMAIN-SUFFIX,fork.pacevice.com,REJECT
 DOMAIN-SUFFIX,forkstrictly.com,REJECT
 DOMAIN-SUFFIX,formafore.com,REJECT
 DOMAIN-SUFFIX,forrepresentzen.com,REJECT
@@ -3806,6 +3860,7 @@ DOMAIN-SUFFIX,oofpalate.com,REJECT
 DOMAIN-SUFFIX,ouchvibration.com,REJECT
 DOMAIN-SUFFIX,ouchwhere.com,REJECT
 DOMAIN-SUFFIX,ownbricks.com,REJECT
+DOMAIN-SUFFIX,pacevice.com,REJECT
 DOMAIN-SUFFIX,palateonce.com,REJECT
 DOMAIN-SUFFIX,palespork.com,REJECT
 DOMAIN-SUFFIX,papa.ughoncenot.com,REJECT
@@ -3938,6 +3993,7 @@ DOMAIN-SUFFIX,springinure.com,REJECT
 DOMAIN-SUFFIX,squeakyscofffar.com,REJECT
 DOMAIN-SUFFIX,staregrownup.com,REJECT
 DOMAIN-SUFFIX,stay.pishenormously.com,REJECT
+DOMAIN-SUFFIX,step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,step.modulooften.com,REJECT
 DOMAIN-SUFFIX,step.whoeverhow.com,REJECT
 DOMAIN-SUFFIX,stg.abaftwetly.com,REJECT
@@ -3960,7 +4016,6 @@ DOMAIN-SUFFIX,stg.bob.againstnext.com,REJECT
 DOMAIN-SUFFIX,stg.bob.geezlazily.com,REJECT
 DOMAIN-SUFFIX,stg.bog.formafore.com,REJECT
 DOMAIN-SUFFIX,stg.bog.sansmadly.com,REJECT
-DOMAIN-SUFFIX,stg.bowlingpish.com,REJECT
 DOMAIN-SUFFIX,stg.brochureclear.com,REJECT
 DOMAIN-SUFFIX,stg.brrindeed.com,REJECT
 DOMAIN-SUFFIX,stg.butcornyyet.com,REJECT
@@ -3998,6 +4053,7 @@ DOMAIN-SUFFIX,stg.fen.whoboring.com,REJECT
 DOMAIN-SUFFIX,stg.findingmid.com,REJECT
 DOMAIN-SUFFIX,stg.flat.ackjoyouslyonto.com,REJECT
 DOMAIN-SUFFIX,stg.flat.providedwell.com,REJECT
+DOMAIN-SUFFIX,stg.fog.hencefiner.com,REJECT
 DOMAIN-SUFFIX,stg.fold.pinesandsoup.com,REJECT
 DOMAIN-SUFFIX,stg.fold.whetheronto.com,REJECT
 DOMAIN-SUFFIX,stg.fuel.geezyet.com,REJECT
@@ -4058,8 +4114,10 @@ DOMAIN-SUFFIX,stg.shrillypants.com,REJECT
 DOMAIN-SUFFIX,stg.silk.nightlifestrait.com,REJECT
 DOMAIN-SUFFIX,stg.silk.untilhmph.com,REJECT
 DOMAIN-SUFFIX,stg.soup.suddenlyany.com,REJECT
+DOMAIN-SUFFIX,stg.step.cashcharming.com,REJECT
 DOMAIN-SUFFIX,stg.step.modulooften.com,REJECT
 DOMAIN-SUFFIX,stg.step.whoeverhow.com,REJECT
+DOMAIN-SUFFIX,stg.tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,stg.taro.amongstmask.com,REJECT
 DOMAIN-SUFFIX,stg.taro.sansyettusk.com,REJECT
 DOMAIN-SUFFIX,stg.taro.secretnot.com,REJECT
@@ -4098,6 +4156,7 @@ DOMAIN-SUFFIX,surfaceavow.com,REJECT
 DOMAIN-SUFFIX,swiftbecause.com,REJECT
 DOMAIN-SUFFIX,swimskylineplus.com,REJECT
 DOMAIN-SUFFIX,tail.cuddlyruddy.com,REJECT
+DOMAIN-SUFFIX,tail.insteadjell.com,REJECT
 DOMAIN-SUFFIX,tail.oofamidst.com,REJECT
 DOMAIN-SUFFIX,tamealongpast.com,REJECT
 DOMAIN-SUFFIX,tapiocawithout.com,REJECT
@@ -4126,7 +4185,6 @@ DOMAIN-SUFFIX,tray.ackvainly.com,REJECT
 DOMAIN-SUFFIX,tribegadzooks.com,REJECT
 DOMAIN-SUFFIX,trivialblowgun.com,REJECT
 DOMAIN-SUFFIX,tuba.stiffpast.com,REJECT
-DOMAIN-SUFFIX,tuba.worstloftily.com,REJECT
 DOMAIN-SUFFIX,tutjuggernaut.com,REJECT
 DOMAIN-SUFFIX,ughapud.com,REJECT
 DOMAIN-SUFFIX,ughjubilantly.com,REJECT
