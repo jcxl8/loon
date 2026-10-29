@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,s-passets.pinimg.com,REJECT
 DOMAIN-SUFFIX,sc.omtrdc.net,REJECT
 DOMAIN-SUFFIX,snapkit.com,REJECT
 DOMAIN-SUFFIX,trk.pinterest.com,REJECT
+DOMAIN-SUFFIX,trk.pinterest.com.edu.fiesc.com.br,REJECT
 DOMAIN-SUFFIX,trk2.pinterest.com,REJECT
 DOMAIN-SUFFIX,zenimpact.io,REJECT
 
