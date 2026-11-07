@@ -26,7 +26,6 @@ DOMAIN-SUFFIX,doubleclick.net,REJECT
 DOMAIN-SUFFIX,google-analytics.com,REJECT
 DOMAIN-SUFFIX,log.pinterest.com,REJECT
 DOMAIN-SUFFIX,log.pinterest.com.eg,REJECT
-DOMAIN-SUFFIX,s-passets.pinimg.com,REJECT
 DOMAIN-SUFFIX,sc.omtrdc.net,REJECT
 DOMAIN-SUFFIX,snapkit.com,REJECT
 DOMAIN-SUFFIX,trk.pinterest.com,REJECT
