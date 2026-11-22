@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,metrics.meta.vn,REJECT
 DOMAIN-SUFFIX,pixel.facebook.com,REJECT
 DOMAIN-SUFFIX,tr.facebook.com,REJECT
 DOMAIN-SUFFIX,tracking.meta.vn,REJECT
+DOMAIN-SUFFIX,tracking.rest.meta-esp.com,REJECT
 
 [Rewrite]
 # Remove objects marked as ads/sponsored/promoted from supported JSON responses.
