@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,ct.pinterest.com,REJECT
 DOMAIN-SUFFIX,demdex.net,REJECT
 DOMAIN-SUFFIX,doubleclick-cn.net,REJECT
 DOMAIN-SUFFIX,doubleclick.net,REJECT
+DOMAIN-SUFFIX,fmpinterest.com,REJECT
 DOMAIN-SUFFIX,google-analytics.com,REJECT
 DOMAIN-SUFFIX,log.pinterest.com,REJECT
 DOMAIN-SUFFIX,log.pinterest.com.eg,REJECT
